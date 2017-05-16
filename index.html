@@ -1,31 +1,12 @@
-<!DOCTYPE HTML>
-<!--
-                                            __________________
-__________________ _______     ________________  __/__(_)__  /_____ _
-__  ___/  _ \  __ `/_  __ \    _  __ \_  ___/_  /_ __  /__  /_  __ `/
-_(__  )/  __/ /_/ /_  / / /    / /_/ /  /   _  __/ _  / _  / / /_/ /
-/____/ \___/\__,_/ /_/ /_/     \____//_/    /_/    /_/  /_/  \__,_/
-                                                       Since 1982.
-
--->
-<html>
-	<head>
-		<title>Sean Orfila</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
-		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
-	</head>
-	<body>
-
+---
+layout: default
+---
 		<!-- Page Wrapper -->
 			<div id="page-wrapper">
 
 				<!-- Header -->
 					<header id="header" class="alt">
-						<h1><a href="index.html">Sean Orfila</a></h1>
+						<h1><a href="index.html">{{ site.title }}</a></h1>
 						<nav>
 							<a href="#menu">Menu</a>
 						</nav>
@@ -50,8 +31,8 @@ _(__  )/  __/ /_/ /_  / / /    / /_/ /  /   _  __/ _  / _  / / /_/ /
 					<section id="banner">
 						<div class="inner">
 							<div class="logo"><span class="icon face"></span></div>
-							<h2>Sean Orfila</h2>
-							<p>Hi 👋 Welcome to my website & portfolio. I'm a UI Developer from California.</p>
+							<h2>{{ site.title }}</h2>
+							<p>Hi 👋 Welcome to my website & portfolio. I'm a UI Developer from California</p>
 						</div>
 					</section>
 
@@ -61,11 +42,12 @@ _(__  )/  __/ /_/ /_  / / /    / /_/ /  /   _  __/ _  / _  / / /_/ /
 						<!-- One -->
 							<section id="one" class="wrapper spotlight style1">
 								<div class="inner">
-									<a href="#" class="image"><img src="images/pic01.jpg" alt="" /></a>
+									<a href="#" class="image"><img src="images/shopify.png" alt="" /></a>
 									<div class="content">
-										<h2 class="major">Web Development</h2>
-										<p>I work on various projects ranging from composing basic HTML and CSS markup to engineering enterprise-level business logic for the web. Click below to checkout my most recent stuff.</p>
-										<a href="#" class="special">Browse Projects</a>
+										<h2 class="major">Shopify Partner + Custom Theme Development</h2>
+										<p>Specializing in Shopify themes and custom eCommerce sites, I create authentic UI/UX eCommerce experiences and engineer custom solutions for the Shopify platform.</p>
+                                        <p>I'm all about sharing the knowledge and going D-I-Y, but sometimes business is booming and you need a quick turnaround from a pro. Let's partner up to get it done.</p>
+										<a href="#letsChat" class="special">Learn More about My Shopify Work</a>
 									</div>
 								</div>
 							</section>
@@ -73,11 +55,23 @@ _(__  )/  __/ /_/ /_  / / /    / /_/ /  /   _  __/ _  / _  / / /_/ /
 						<!-- Two -->
 							<section id="two" class="wrapper alt spotlight style2">
 								<div class="inner">
-									<a href="#" class="image"><img src="images/pic02.jpg" alt="" /></a>
+									<a href="#" class="image"><img src="images/code.jpg" alt="" /></a>
 									<div class="content">
-										<h2 class="major">UI/UX Design</h2>
-										<p>Lorem ipsum dolor sit amet, etiam lorem adipiscing elit. Cras turpis ante, nullam sit amet turpis non, sollicitudin posuere urna. Mauris id tellus arcu. Nunc vehicula id nulla dignissim dapibus. Nullam ultrices, neque et faucibus viverra, ex nulla cursus.</p>
-										<a href="#" class="special">Learn more</a>
+										<h2 class="major">Front-end Development</h2>
+										<p>I've been busy working with some amazing stacks and new technologies lately. </p>
+                                        <p>With over 5 years of professional web development experience, I've got chops on many different frameworks and systems including:</p>
+                                        <ul>
+                                            <li>Git</li>
+                                            <li>Symfony/Twig</li>
+                                            <li>WordPress</li>
+                                            <li>Bootstrap</li>
+                                            <li>Jekyll</li>
+                                            <li>Grunt/Gulp</li>
+                                            <li>Scss/Sass</li>
+                                            <li>jQuery</li>
+                                            <li>and much more!</li>
+                                        </ul>
+										<a href="#" class="special">Learn more about my work</a>
 									</div>
 								</div>
 							</section>
@@ -85,11 +79,12 @@ _(__  )/  __/ /_/ /_  / / /    / /_/ /  /   _  __/ _  / _  / / /_/ /
 						<!-- Three -->
 							<section id="three" class="wrapper spotlight style3">
 								<div class="inner">
-									<a href="#" class="image"><img src="images/pic03.jpg" alt="" /></a>
+									<a href="#" class="image"><img src="images/luke-chesser-48.jpg" alt="" /></a>
 									<div class="content">
-										<h2 class="major">HTML Emails</h2>
-										<p>Lorem ipsum dolor sit amet, etiam lorem adipiscing elit. Cras turpis ante, nullam sit amet turpis non, sollicitudin posuere urna. Mauris id tellus arcu. Nunc vehicula id nulla dignissim dapibus. Nullam ultrices, neque et faucibus viverra, ex nulla cursus.</p>
-										<a href="#" class="special">Learn more</a>
+										<h2 class="major">Business Logic + UX Design</h2>
+                                        <p>Want to start talking UI, buttons, menus, sliders? Let's slow down there turbo... Sometimes we just need a whiteboard and some time to chat. From that session we can usually unearth the deeper (and more meaningful) business problems and logic.</p>
+                                        <p>These blocks and problems are most likely the issues holding you (and your business) back. Understanding these problems is how we can build technology in a rational, intelligent way.</p>
+										<a href="#" class="special">Learn more about my UX process.</a>
 									</div>
 								</div>
 							</section>
@@ -97,7 +92,7 @@ _(__  )/  __/ /_/ /_  / / /    / /_/ /  /   _  __/ _  / _  / / /_/ /
 						<!-- Four -->
 							<section id="four" class="wrapper alt style1">
 								<div class="inner">
-									<h2 class="major">Vitae phasellus</h2>
+									<h2 class="major">My Blog Posts</h2>
 									<p>Cras mattis ante fermentum, malesuada neque vitae, eleifend erat. Phasellus non pulvinar erat. Fusce tincidunt, nisl eget mattis egestas, purus ipsum consequat orci, sit amet lobortis lorem lacus in tellus. Sed ac elementum arcu. Quisque placerat auctor laoreet.</p>
 									<section class="features">
 										<article>
@@ -133,55 +128,4 @@ _(__  )/  __/ /_/ /_  / / /    / /_/ /  /   _  __/ _  / _  / / /_/ /
 
 					</section>
 
-				<!-- Footer -->
-					<section id="footer">
-						<div class="inner">
-							<h2 class="major">Get in touch</h2>
-							<p>Cras mattis ante fermentum, malesuada neque vitae, eleifend erat. Phasellus non pulvinar erat. Fusce tincidunt, nisl eget mattis egestas, purus ipsum consequat orci, sit amet lobortis lorem lacus in tellus. Sed ac elementum arcu. Quisque placerat auctor laoreet.</p>
-							<form method="post" action="#">
-								<div class="field">
-									<label for="name">Name</label>
-									<input type="text" name="name" id="name" />
-								</div>
-								<div class="field">
-									<label for="email">Email</label>
-									<input type="email" name="email" id="email" />
-								</div>
-								<div class="field">
-									<label for="message">Message</label>
-									<textarea name="message" id="message" rows="4"></textarea>
-								</div>
-								<ul class="actions">
-									<li><input type="submit" value="Send Message" /></li>
-								</ul>
-							</form>
-							<ul class="contact">
-								<li class="fa-home">
-									Untitled Inc<br />
-									1234 Somewhere Road Suite #2894<br />
-									Nashville, TN 00000-0000
-								</li>
-								<li class="fa-phone">(000) 000-0000</li>
-								<li class="fa-envelope"><a href="#">information@untitled.tld</a></li>
-								<li class="fa-twitter"><a href="#">twitter.com/untitled-tld</a></li>
-								<li class="fa-facebook"><a href="#">facebook.com/untitled-tld</a></li>
-								<li class="fa-instagram"><a href="#">instagram.com/untitled-tld</a></li>
-							</ul>
-							<ul class="copyright">
-								<li>&copy; Untitled Inc. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
-							</ul>
-						</div>
-					</section>
-
 			</div>
-
-		<!-- Scripts -->
-			<script src="assets/js/skel.min.js"></script>
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery.scrollex.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
-			<script src="assets/js/main.js"></script>
-
-	</body>
-</html>

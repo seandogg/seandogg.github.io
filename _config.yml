@@ -1,0 +1,13 @@
+title: Sean Orfila
+description: Hi 👋 Welcome to my website & portfolio. I'm a UI Developer from California
+keywords: Front-end developer, UI/UX Design, Shopify Developer
+author: Sean Orfila
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+
+# Build settings
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock

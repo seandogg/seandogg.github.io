@@ -1708,9 +1708,9 @@
 
 
 a:hover {
-    -webkit-animation: zomg 2.5s infinite;
-    -moz-animation: zomg 2.5s infinite;
-    animation: zomg 2.5s infinite;
+    -webkit-animation: zomg 1.5s infinite;
+    -moz-animation: zomg 1.5s infinite;
+    animation: zomg 1.5s infinite;
 }
 
 @-webkit-keyframes zomg {
@@ -3326,7 +3326,7 @@ a.special:not(.button) {
 	}
 
 	.wrapper {
-		background-color: #545b75;
+		background-color: #2e3141;
 		margin: 6.5em 0;
 		position: relative;
 	}
