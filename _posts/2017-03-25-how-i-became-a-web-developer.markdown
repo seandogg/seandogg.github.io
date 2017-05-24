@@ -1,11 +1,11 @@
 ---
 title:  "How I Became a Web Developer"
-subtitle: "The internet is my friend."
+subtitle: "The internet is my hobby."
 author: "Sean Orfila"
-avatar: "img/authors/photo.jpg"
-image: "img/g.jpeg"
+avatar: ""
+image: "images/g.jpeg"
 date:   2017-03-25 12:12:12
-layout: "post"
+layout: "page"
 permalink: "post-1"
 ---
 

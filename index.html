@@ -21,12 +21,12 @@ layout: default
 						<!-- One -->
 							<section id="one" class="wrapper spotlight style1">
 								<div class="inner">
-									<a href="#" class="image"><img src="images/shopify.png" alt="" /></a>
+									<a href="/custom-shopify-theme-development" class="image"><img src="images/shopify.jpg" alt="" /></a>
 									<div class="content">
-										<h2 class="major">Shopify Partner + Custom Theme Development</h2>
+										<h2 class="major">Your Shopify Partner & Theme Developer</h2>
 										<p>Specializing in Shopify themes and custom eCommerce sites, I create authentic UI/UX eCommerce experiences and engineer custom solutions for the Shopify platform.</p>
                                         <p>I'm all about sharing the knowledge and going D-I-Y, but sometimes business is booming and you need a quick turnaround from a pro. Let's partner up to get it done.</p>
-										<a href="#letsChat" class="special">Learn More about My Shopify Work</a>
+										<a href="#letsChat" class="special">Hire me for Shopify Projects</a>
 									</div>
 								</div>
 							</section>
@@ -38,19 +38,20 @@ layout: default
 									<div class="content">
 										<h2 class="major">Front-end Development</h2>
 										<p>I've been busy working with some amazing stacks and new technologies lately. </p>
-                                        <p>With over 5 years of professional web development experience, I've got chops on many different frameworks and systems including:</p>
+                                        <p>With 6+ years of professional web development experience, I've got code chops on many different frameworks, CMS and platforms including:</p>
                                         <ul>
                                             <li>Git</li>
-                                            <li>Symfony/Twig</li>
+                                            <li>HTML5, CSS3, Scss/Sass + JavaScript</li>
+                                            <li>Symfony & Twig</li>
+                                            <li>Grunt/Gulp</li>
+                                            <li>jQuery</li>
                                             <li>WordPress</li>
                                             <li>Bootstrap</li>
                                             <li>Jekyll</li>
-                                            <li>Grunt/Gulp</li>
-                                            <li>Scss/Sass</li>
-                                            <li>jQuery</li>
-                                            <li>and much more!</li>
+                                            <li>NodeJS</li>
+                                            <li>and More!</li>
                                         </ul>
-										<a href="#" class="special">Learn more about my work</a>
+										<a href="#" class="special">Learn more about my front-end experience</a>
 									</div>
 								</div>
 							</section>
@@ -61,26 +62,35 @@ layout: default
 									<a href="#" class="image"><img src="images/luke-chesser-48.jpg" alt="" /></a>
 									<div class="content">
 										<h2 class="major">Business Logic + UX Design</h2>
-                                        <p>Want to start talking UI, buttons, menus, sliders? Let's slow down there turbo... Sometimes we just need a whiteboard and some time to chat. From that session we can usually unearth the deeper (and more meaningful) business problems and logic.</p>
+                                        <p>Want to start talking UI, buttons, menus, sliders? Let's slow down first.</p>
+                                        <p>Sometimes we need a deep breath, a whiteboard and some time to chat. From that session we can usually unearth the deeper (and more meaningful) business problems and logic your business needs moving forward.</p>
                                         <p>These blocks and problems are most likely the issues holding you (and your business) back. Understanding these problems is how we can build technology in a rational, intelligent way.</p>
-										<a href="#" class="special">Learn more about my UX process.</a>
+                                        <p>I refer to this process as "RoadMapping"</p>
+										<a href="#" class="special">Hire me for RoadMapping</a>
 									</div>
 								</div>
 							</section>
-
+{% comment %}
 						<!-- Four -->
 							<section id="four" class="wrapper alt style1">
 								<div class="inner">
-									<h2 class="major">My Blog Posts</h2>
+									<h2 class="major">Some Blog Posts</h2>
 									<p>Cras mattis ante fermentum, malesuada neque vitae, eleifend erat. Phasellus non pulvinar erat. Fusce tincidunt, nisl eget mattis egestas, purus ipsum consequat orci, sit amet lobortis lorem lacus in tellus. Sed ac elementum arcu. Quisque placerat auctor laoreet.</p>
-									<section class="features">
-										<article>
-											<a href="#" class="image"><img src="images/pic04.jpg" alt="" /></a>
-											<h3 class="major">Sed feugiat lorem</h3>
-											<p>Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id nulla dignissim dapibus ultrices.</p>
-											<a href="#" class="special">Learn more</a>
+
+                                    <!-- For Loop of Blog Posts Here -->
+                                    <section class="features">
+
+                                        {% for post in site.posts %}
+                                        <article>
+											<a href="{{ post.url }}" class="image"><img src="{{ post.image }}" alt="" /></a>
+											<h3 class="major">{{ post.title }}</h3>
+											<p>{{ post.content | strip_html | truncatewords: 35 }}</p>
+											<a href="{{ post.url }}" class="special">Read More</a>
 										</article>
-										<article>
+                                        {% endfor %}
+
+                                        <!--
+                                        <article>
 											<a href="#" class="image"><img src="images/pic05.jpg" alt="" /></a>
 											<h3 class="major">Nisl placerat</h3>
 											<p>Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id nulla dignissim dapibus ultrices.</p>
@@ -98,13 +108,18 @@ layout: default
 											<p>Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id nulla dignissim dapibus ultrices.</p>
 											<a href="#" class="special">Learn more</a>
 										</article>
+										-->
 									</section>
+
+
 									<ul class="actions">
+                                        <!-- Need a blog index page here -->
 										<li><a href="#" class="button">Browse All</a></li>
 									</ul>
 								</div>
-							</section>
 
+							</section>
+{% endcomment %}
 					</section>
 
 			</div>

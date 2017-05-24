@@ -2,8 +2,8 @@
 <section id="footer">
     <div class="inner">
         <h2 class="major" id="letsChat">Get in touch</h2>
-        <p>Cras mattis ante fermentum, malesuada neque vitae, eleifend erat. Phasellus non pulvinar erat. Fusce tincidunt, nisl eget mattis egestas, purus ipsum consequat orci, sit amet lobortis lorem lacus in tellus. Sed ac elementum arcu. Quisque placerat auctor laoreet.</p>
-        <form method="post" action="#">
+        <p>If your business isn’t growing, neither is ours. Partner with us and we dedicate our time to carrying out your important business and personal goals. We know you want to grow big – and so do we.</p>
+        <form method="post" data-success="Message successfully sent!">
             <div class="field">
                 <label for="name">Name</label>
                 <input type="text" name="name" id="name" />
@@ -16,9 +16,11 @@
                 <label for="message">Message</label>
                 <textarea name="message" id="message" rows="4"></textarea>
             </div>
+            <div class="g-recaptcha" data-sitekey="6Lc7zyIUAAAAAK3nvFLhlxt2Q1uK5kTD1qwba4q_" style="margin-bottom: 25px;"></div>
             <ul class="actions">
                 <li><input type="submit" value="Send Message" /></li>
             </ul>
+
         </form>
         <ul class="contact">
             <li class="fa-home">
@@ -46,3 +48,4 @@
 <script src="assets/js/util.js"></script>
 <!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
 <script src="assets/js/main.js"></script>
+<script src='https://www.google.com/recaptcha/api.js'></script>
