@@ -2,28 +2,42 @@
 <section id="footer">
     <div class="inner">
         <h2 class="major" id="letsChat">Get in touch</h2>
-        <p>If your business isn’t growing, neither is ours. Partner with us and we dedicate our time to carrying out your important business and personal goals. We know you want to grow big – and so do we.</p>
-        <form id="contact-form" method="post" data-success="Message successfully sent!">
+        <p style="padding-top:12px;">&hearts;</p>
+        <form method="post" action="https://formspree.io/sean.orfila@gmail.com" >
             <div class="field">
                 <label for="name">Name</label>
-                <input type="text" name="name" id="name" />
+                <input type="text" name="name" id="name" required/>
             </div>
             <div class="field">
                 <label for="email">Email</label>
-                <input type="email" name="email" id="email" />
+                <input type="email" name="email" id="email" required/>
+            </div>
+            <div class="field">
+                <label for="budget">Budget (in USD)</label>
+                <div class="select-wrapper">
+                    <select name="budget" id="budget" required>
+                        <option value="null" selected disabled>--</option>
+                        <option value="500">Under $500</option>
+                        <option value="1000">$1,000 - $5,000</option>
+                        <option value="5000">$5,000 - $10,000</option>
+                        <option value="10000">$10,000 - $20,000</option>
+                        <option value="20000">$20,000 - $50,000</option>
+                        <option value="50000">$50,000 - $100,000</option>
+                        <option value="100000">Over $100,000</option>
+                    </select>
+                </div>
             </div>
             <div class="field">
                 <label for="message">Message</label>
                 <textarea name="message" id="message" rows="4"></textarea>
             </div>
-            <div id="notice" class="notice" data-captcha-failed="Incorrect captcha!" data-error="There was an error sending the message, please try again."></div>
-            <div class="g-recaptcha" data-sitekey="6Lc7zyIUAAAAAK3nvFLhlxt2Q1uK5kTD1qwba4q_" style="margin-bottom: 25px;"></div>
             <ul class="actions">
                 <li><input type="submit" value="Send Message" /></li>
             </ul>
 
         </form>
         <ul class="contact">
+            {% comment %}
             <li class="fa-home">
                 Untitled Inc<br />
                 1234 Somewhere Road Suite #2894<br />
@@ -31,12 +45,15 @@
             </li>
             <li class="fa-phone">(000) 000-0000</li>
             <li class="fa-envelope"><a href="#">information@untitled.tld</a></li>
-            <li class="fa-twitter"><a href="#">twitter.com/untitled-tld</a></li>
-            <li class="fa-facebook"><a href="#">facebook.com/untitled-tld</a></li>
-            <li class="fa-instagram"><a href="#">instagram.com/untitled-tld</a></li>
+            {% endcomment %}
+            <li class="fa-stack-overflow"><a href="https://stackoverflow.com/story/sean-orfila">stackoverflow.com/story/sean-orfila</a> </li>
+            <li class="fa-github"><a href="https://github.com/seandogg">github.com/seandogg</a></li>
+            <li class="fa-twitter"><a href="https://twitter.com/seanorfila">twitter.com/seanorfila</a></li>
+            <li class="fa-linkedin"><a href="https://www.linkedin.com/in/sorfila/">linkedin.com/sean-orfila</a></li>
+            <li class="fa-instagram"><a href="https://www.instagram.com/seanorf/">instagram.com/seanorf</a></li>
         </ul>
         <ul class="copyright">
-            <li>&copy; Untitled Inc. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+            <li>&copy; Sean Orfila. All rights reserved.</li><li></li>
         </ul>
     </div>
 </section>

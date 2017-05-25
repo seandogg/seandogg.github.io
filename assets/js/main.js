@@ -162,54 +162,6 @@
 				});
 
 	});
-
-    function showRecaptcha(element) {
-        Recaptcha.create('6Lc7zyIUAAAAAK3nvFLhlxt2Q1uK5kTD1qwba4q_', element, {
-            theme: 'custom', // you can pick another at https://developers.google.com/recaptcha/docs/customization
-            custom_theme_widget: 'recaptcha_widget'
-        });
-    }
-
-    function setupRecaptcha() {
-        var contactFormHost = 'https://desolate-ridge-75410.herokuapp.com/',
-            form = $('#contact-form'),
-            notice = form.find('#notice');
-
-        if (form.length) {
-            showRecaptcha('recaptcha_widget');
-
-            form.submit(function(ev){
-                ev.preventDefault();
-
-                $.ajax({
-                    type: 'POST',
-                    url: contactFormHost + 'send_email',
-                    data: form.serialize(),
-                    dataType: 'json',
-                    success: function(response) {
-                        switch (response.message) {
-                            case 'success':
-                                form.fadeOut(function() {
-                                    form.html('<h4>' + form.data('success') + '</h4>').fadeIn();
-                                });
-                                break;
-
-                            case 'failure_captcha':
-                                showRecaptcha('recaptcha_widget');
-                                notice.text(notice.data('captcha-failed')).fadeIn();
-                                break;
-
-                            case 'failure_email':
-                                notice.text(notice.data('error')).fadeIn();
-                        }
-                    },
-                    error: function(xhr, ajaxOptions, thrownError) {
-                        notice.text(notice.data('error')).fadeIn();
-                    }
-                });
-            });
-        }
-    }
         console.log('Hey!! While you are here, click that network tab and see how fast this site loads.')
         console.log('...Mic drop')
 })(jQuery);
