@@ -2,11 +2,9 @@
 title:  "How I Became a Web Developer"
 subtitle: "The internet is my hobby."
 author: "Sean Orfila"
-avatar: ""
-image: "images/g.jpeg"
 date:   2017-03-25 12:12:12
 layout: "page"
-permalink: "post-1"
+permalink: "how-i-became-a-web-developer"
 ---
 
 ## How Did I Get Here?
@@ -21,7 +19,7 @@ Newspaper sales were crashing as we began to rely more and more on the web for o
 
 After graduation, I was offered a design job at a local newspaper. The offer was for `$21,000 USD per year`. I declined and decided to keep my seasonal job (earning $28,000 in 5 months) and take to `drifting` around the world surfing the rest of the year.
 
-{% include image.html url="https://seandogg.github.io/img/surf-check.jpg" description="Drifting" %} 
+{% include image.html url="/images/surf-check.jpg" description="Drifting" %} 
 
 ### The Earlier Days
 Luckily I kept those `html` and `css` chops. I did it for fun. I'd grown up with computers so I knew my way around the machine. I'd create blogs, make sites for myself and just generally dabble in code. Nothing serious. 
@@ -38,7 +36,7 @@ Because I never set out to be a professional web guy, I knew nothing about invoi
 
 `I hit eject`. After that project I stopped taking clients. I was burnt out on website development and opted to return to my seasonal job as an ocean lifeguard.
 
-{% include image.html url="https://seandogg.github.io/img/hb-northside.jpg" description="Northside" %} 
+{% include image.html url="/images/hb-northside.jpg" description="Northside" %} 
 
 ### Craftsmen Years
 
@@ -46,7 +44,7 @@ I knew the lifeguarding gig wasn't a long-term option. Full-time positions were 
  
 My boss was a master carpenter. Together we installed, repaired and restored hardwood floors. I grew strong hands and a strong back, worked all day and became very handy with all types of power and hand tools. We typically worked on `multi-million dollar homes` in Laguna Beach and surrounding areas. 
 
-{% include image.html url="https://seandogg.github.io/img/carpentry.jpg" description="The Craftsman" %} 
+{% include image.html url="/images/carpentry.jpg" description="The Craftsman" %} 
 
 Life was good. I put in a solid two years of work, made good money and generally enjoyed life. 
 
@@ -54,7 +52,7 @@ And then it bottomed out. Construction slowed, the money began to slow - and the
 
 ### Bridging the Gap(s)
 
-{% include image.html url="https://seandogg.github.io/img/art-brushes.jpg" description="Art is Life" %} 
+{% include image.html url="/images/art-brushes.jpg" description="Art is Life" %} 
 
 With the stop-and-go income from construction, I decided to go back to web development full force. But this time I took a contractor's approach. 
 

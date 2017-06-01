@@ -162,7 +162,6 @@
 				});
 
 	});
-        console.log('Hey!! While you are here, click that network tab and see how fast this site loads.')
-        console.log('...Mic drop')
+        console.log('looking for someone to Console me >----(^_^)----<')
 })(jQuery);
 
