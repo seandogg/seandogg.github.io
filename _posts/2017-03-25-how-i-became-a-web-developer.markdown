@@ -1,61 +1,81 @@
 ---
 title:  "How I Became a Web Developer"
 subtitle: "The internet is my hobby."
+excerpt: "I didn't set out to write software for a living. I figured I'd work outdoors, tour with a band, or travel around living out of a backpack. But alas, life has a strange, meandering path..."
 author: "Sean Orfila"
 date:   2017-03-25 12:12:12
 layout: "page"
 permalink: "how-i-became-a-web-developer"
+image: "images/g.jpeg"
 ---
-
-## How Did I Get Here?
-I didn't set out to write software for a living. I figured I'd work outdoors, tour with a band playing music, or travel the world surfing & snowboarding (all of which I can say I've done). But life has a strange way of unexpectedly happening.
-
-What began as a hobby in school eventually became my full-time trade, and here we are. On the internet. Together.
-
-### The Early Days
-It was 2002. I was a student in the journalism department at CSU Long Beach. Luckily the university had the foresight to see the inevitable demise of the printed newspaper. We were encouraged to study `html` and `css` in addition to the regular curricula of `design`, `copy editing`, `writing` and `investigative journalism`. 
-
-Newspaper sales were crashing as we began to rely more and more on the web for our information. Media companies were struggling to generate new income streams on the web. The transition wasn't smooth. To top it off, the US war on terror was raging and it was possibly the worst moment in history to find a job in the news business.
-
-After graduation, I was offered a design job at a local newspaper. The offer was for `$21,000 USD per year`. I declined and decided to keep my seasonal job (earning $28,000 in 5 months) and take to `drifting` around the world surfing the rest of the year.
 
 {% include image.html url="/images/surf-check.jpg" description="Drifting" %} 
 
-### The Earlier Days
-Luckily I kept those `html` and `css` chops. I did it for fun. I'd grown up with computers so I knew my way around the machine. I'd create blogs, make sites for myself and just generally dabble in code. Nothing serious. 
+## A Strange Path
+I didn't set out to write software for a living. I figured I'd **work outdoors, tour with a band, or travel around living out of a backpack**. But alas, life has a strange, meandering path.
 
-In 2005, after returning to the US from living abroad, I set out to create a website for **The Noetic Society**, a non-profit Philosophy group led by Pierre Grimes. Pierre was a freshman-year college philosophy professor that holds a group that ancient Greek Philosophy and philosophical counseling. 
+What began as my hobby in college eventually became a full-time trade -- how that all happened I will attempt to describe here. On the internet.
 
-The site launched that year and was my first project released into the wild that wasn't a blog or otherwise part of some CMS. 
+{% include image-small.html url="/images/internet_surfing.gif" description="Drifting" %} 
 
-### Burn Out #1
+### Way back machine
+
+In 2002 I was a student in the journalism department at CSU Long Beach. Luckily the university had the foresight to see the inevitable demise of the printed newspaper. We were encouraged to study **html** and **css** in addition to the regular curricula of **design**, **copy editing**, **writing** and **investigative journalism**. 
+
+By 2004 newspaper sales were crashing and we began relying on the web for our daily information. Twitter wasn't even invented yet.
+
+{% include image.html url="/images/travelin-1.jpg" description="Surf bum" %} 
+
+### Travel Days
+
+I was reluctant to find full-time work in the journalism world, and instead, I set about living my 20s doing the dirtbag surf/travel thing, spending half my year **lifeguarding in Huntington Beach** and the other half **traveling to Indonesia, Mexico, Central America, Canada or some other far away land**.
+
+I continued dabbling in **html** and **css** while traveling. I did it for fun really. I'd grown up with computers so I knew my way around the machine. I'd make blogs with my travel photos & writing, publish content and stories in **surf magazines** and write trip reports on forums. I generally messed around on **Blogger**. Nothing serious. 
+
+---
+
+### Making stuff for other people
+
+Things began getting a bit more professional in 2005. That was when I created my first (real) website for a local non-profit. I built it with Adobe DreamWeaver. The site launched without any major issues and it was my first project that wasn't a blogger site or a custom myspace profile. It was straight-up code! No CMS.
  
-From that site, others followed. I was soon offered a job to create a website for a print magazine. **This is when I began getting overwhelmed**. It wasn't the code, it was business. I had no business acumen. 
+After creating that site, I was soon offered a few other jobs to create a websites for other people via word-of-mouth. When I began saying yes all the time is when things went bad. **After a year or so, I was overwhelmed**. It wasn't the code, it was the business. 
 
-Because I never set out to be a professional web guy, I knew nothing about invoicing, scope of work, running a business, managing expectations and all the dirty stuff that comes with being in business.
+**I had zero business skills.**
 
-`I hit eject`. After that project I stopped taking clients. I was burnt out on website development and opted to return to my seasonal job as an ocean lifeguard.
+{% include image.html url="/images/derelict.jpg" description="Burn Out" %} 
+
+### The First Burn Out
+
+In the beginning, I hadn't set out to be a professional web guy. Teaching myself, I realized the hard way that I knew nothing about invoicing, scope of work, running a business, managing expectations and all the **business stuff** that comes with self-employment.
+
+After one particularly sour business relationship I had had enough. **I hit eject.** After that project I stopped taking clients. I was so burnt out on **the business of website development** that I opted to return to my seasonal job as an ocean lifeguard.
+
+This was the view from my office:
 
 {% include image.html url="/images/hb-northside.jpg" description="Northside" %} 
 
-### Craftsmen Years
+---
 
-I knew the lifeguarding gig wasn't a long-term option. Full-time positions were few and far between, and I was getting `burnt out` on that too. I wrapped up another summer and began working for a flooring contractor.
+### Leaving the beach
+
+The lifeguarding gig wasn't a long-term option me. Permanent lifeguard jobs are rare, and I was getting burnt out dealing with the hordes of people in HB. I wrapped up another safe summer and tried my luck apprenticing with a master hardwood flooring contractor.
+
+{% include image.html url="/images/hardwood.jpg" description="Hardwood Flooring" %} 
+
+#### Lessons from woodworking
  
-My boss was a master carpenter. Together we installed, repaired and restored hardwood floors. I grew strong hands and a strong back, worked all day and became very handy with all types of power and hand tools. We typically worked on `multi-million dollar homes` in Laguna Beach and surrounding areas. 
+I worked with said carpenter for 16 months. Together we installed, repaired and restored hardwood floors. We worked in multi-million dollar houses. I grew strong hands and a strong back and worked all day with power tools. It was good.
 
-{% include image.html url="/images/carpentry.jpg" description="The Craftsman" %} 
+In construction world I made a decent life for myself and, more importantly, learned skills that I still use all the time. 
 
-Life was good. I put in a solid two years of work, made good money and generally enjoyed life. 
+But things eventually slowed down. The US economy took a pause and without back-to-back jobs I was left out to dry. 
 
-And then it bottomed out. Construction slowed, the money began to slow - and the lack of healthcare and benefits was a big cost out-of-pocket. 
+### The Do-Over
 
-### Bridging the Gap(s)
+{% include image.html url="/images/studio.jpg" description="Studio" %} 
 
-{% include image.html url="/images/art-brushes.jpg" description="Art is Life" %} 
+When the woodworking slowed, I decided to try another go with web development. But this time I took a contractor's approach to the business. Looking back, I had a much more mature approach to web design. 
 
-With the stop-and-go income from construction, I decided to go back to web development full force. But this time I took a contractor's approach. 
+You see, not only did I learn woodwork from this old man, I learned the importance of bidding, estimating, drawing a fair scope of work, and delivering something that truly pleased people. It was basically what I was missing the first time around.
 
-Working for the master carpenter taught me the value of honest, hard work. `It also taught me how to invoice, estimate a job (by measuring things) and the importance of word-of-mouth over any type of advertising`.
-
-After burying myself in `learning to code` (again), the freelancing snowballed and business picked up -- but this time I had a new approach.
+After burying myself code (again), the freelancing and job offers basically snowballed and I've taken a craftsman's approach to my craft ever since.

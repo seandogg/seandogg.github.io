@@ -77,12 +77,12 @@ layout: default
 								</div>
 							</section>
 
-{% comment %}
+
 						<!-- Four -->
 							<section id="four" class="wrapper alt style1">
 								<div class="inner">
-									<h2 class="major">Some Blog Posts</h2>
-									<p>Cras mattis ante fermentum, malesuada neque vitae, eleifend erat. Phasellus non pulvinar erat. Fusce tincidunt, nisl eget mattis egestas, purus ipsum consequat orci, sit amet lobortis lorem lacus in tellus. Sed ac elementum arcu. Quisque placerat auctor laoreet.</p>
+									<h2 class="major">My Articles</h2>
+									<p>This is where you'll find a handful of writings. This is a new site so I intend to add more posts here soon.</p>
 
                                     <!-- For Loop of Blog Posts Here -->
                                     <section class="features">
@@ -91,7 +91,7 @@ layout: default
                                         <article>
 											<a href="{{ post.url }}" class="image"><img src="{{ post.image }}" alt="" /></a>
 											<h3 class="major">{{ post.title }}</h3>
-											<p>{{ post.content | strip_html | truncatewords: 35 }}</p>
+											<p>{{ post.excerpt }}</p>
 											<a href="{{ post.url }}" class="special">Read More</a>
 										</article>
                                         {% endfor %}
@@ -127,7 +127,7 @@ layout: default
 
 							</section>
 
-{% endcomment %}
+
 					</section>
 
 			</div>
