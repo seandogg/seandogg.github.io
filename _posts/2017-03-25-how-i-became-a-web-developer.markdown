@@ -38,7 +38,7 @@ I continued dabbling in **html** and **css** while traveling. I did it for fun r
 
 Things began getting a bit more professional in 2005. That was when I created my first (real) website for a local non-profit. I built it with Adobe DreamWeaver. The site launched without any major issues and it was my first project that wasn't a blogger site or a custom myspace profile. It was straight-up code! No CMS.
  
-After creating that site, I was soon offered a few other jobs to create a websites for other people via word-of-mouth. When I began saying yes all the time is when things went bad. **After a year or so, I was overwhelmed**. It wasn't the code, it was the business. 
+After creating that site, I was soon offered a few other jobs to create a websites for other people via word-of-mouth. When I began saying **yes** all the time is things went south. **After a year or so, I was overwhelmed**. It wasn't the code, it was the business of coding. 
 
 **I had zero business skills.**
 
@@ -48,7 +48,7 @@ After creating that site, I was soon offered a few other jobs to create a websit
 
 In the beginning, I hadn't set out to be a professional web guy. Teaching myself, I realized the hard way that I knew nothing about invoicing, scope of work, running a business, managing expectations and all the **business stuff** that comes with self-employment.
 
-After one particularly sour business relationship I had had enough. **I hit eject.** After that project I stopped taking clients. I was so burnt out on **the business of website development** that I opted to return to my seasonal job as an ocean lifeguard.
+After one particularly tough client I had had enough. **I hit eject.** After that project I stopped taking clients altogether. I folded the laptop and focused elsewhere. I was burnt out on **the business of website development**. I returned to my seasonal job as an ocean lifeguard and lives were saved.
 
 This was the view from my office:
 
@@ -74,8 +74,8 @@ But things eventually slowed down. The US economy took a pause and without back-
 
 {% include image.html url="/images/studio.jpg" description="Studio" %} 
 
-When the woodworking slowed, I decided to try another go with web development. But this time I took a contractor's approach to the business. Looking back, I had a much more mature approach to web design. 
+When the woodworking slowed, I decided to try another go with web development. But this time I took a contractor's approach to the business. Looking back, I now had mature approach to **the business of web design**. 
 
-You see, not only did I learn woodwork from this old man, I learned the importance of bidding, estimating, drawing a fair scope of work, and delivering something that truly pleased people. It was basically what I was missing the first time around.
+You see, not only did I learn woodwork from that old master craftsman, I learned the importance of bidding, estimating, drawing a fair scope of work, and delivering something that truly pleased people. It was basically what I was missing the first time around.
 
-After burying myself code (again), the freelancing and job offers basically snowballed and I've taken a craftsman's approach to my craft ever since.
+After burying myself in code again, the freelance gigs and job offers snowballed -- and I've taken a craftsman's approach to the craft ever since.
