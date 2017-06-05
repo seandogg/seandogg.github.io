@@ -74,8 +74,8 @@ But things eventually slowed down. The US economy took a pause and without back-
 
 {% include image.html url="/images/studio.jpg" description="Studio" %} 
 
-When the woodworking slowed, I decided to try another go with web development. But this time I took a contractor's approach to the business. Looking back, I now had mature approach to **the business of web design**. 
+When the woodworking slowed, I decided to try another go with web development. But this time I took a contractor's approach to the business. Looking back, I now had a mature approach to **the business of web design**. 
 
-You see, not only did I learn woodwork from that old master craftsman, I learned the importance of bidding, estimating, drawing a fair scope of work, and delivering something that truly pleased people. It was basically what I was missing the first time around.
+You see, not only did I learn woodwork from that old master craftsman, I learned the importance of bidding, estimating, drawing a fair scope of work, and delivering something that truly pleased the end user. It was basically what I was missing the first time around.
 
 After burying myself in code again, the freelance gigs and job offers snowballed -- and I've taken a craftsman's approach to the craft ever since.
