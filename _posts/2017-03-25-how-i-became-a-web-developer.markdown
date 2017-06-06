@@ -24,7 +24,7 @@ In 2002 I was a student in the journalism department at CSU Long Beach. Luckily 
 
 By 2004 newspaper sales were crashing and we began relying on the web for our daily information. Twitter wasn't even invented yet.
 
-{% include image.html url="/images/travelin-1.jpg" description="Surf bum" %} 
+{% include image-small.html url="/images/travelin-1.jpg" description="Surf bum" %} 
 
 ### Travel Days
 

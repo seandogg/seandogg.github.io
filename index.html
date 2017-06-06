@@ -25,7 +25,7 @@ layout: default
 									<div class="content">
 										<h2 class="major">Shopify Partner & Theme Developer</h2>
 
-                                        <p>I'm constantly helping people build their store on the internet, whether you're starting from scratch, looking to sell your wares online, or needing an eye for design on an existing site. Look no further! With more than 3 years experience building custom Shopify themes and apps, I can be your <strong>Shopify Guy</strong>.</p>
+                                        <p>I'm constantly helping people build their store on the internet, whether you're starting from scratch, looking to sell your product online, or needing an eye for design on an existing site. With more than 3 years experience building custom Shopify themes and apps, I can be your <strong>Shopify Guy</strong>.</p>
 
                                         <p>Need help with with Shopify?</p>
 										<a href="#letsChat" class="special">Let's chat about your goals</a>
@@ -90,39 +90,19 @@ layout: default
                                         {% for post in site.posts %}
                                         <article>
 											<a href="{{ post.url }}" class="image"><img src="{{ post.image }}" alt="" /></a>
-											<h3 class="major">{{ post.title }}</h3>
+											<h3 class="major"><a href="{{ post.url }}">{{ post.title }}</a></h3>
 											<p>{{ post.excerpt }}</p>
 											<a href="{{ post.url }}" class="special">Read More</a>
 										</article>
                                         {% endfor %}
 
-                                        <!--
-                                        <article>
-											<a href="#" class="image"><img src="images/pic05.jpg" alt="" /></a>
-											<h3 class="major">Nisl placerat</h3>
-											<p>Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id nulla dignissim dapibus ultrices.</p>
-											<a href="#" class="special">Learn more</a>
-										</article>
-										<article>
-											<a href="#" class="image"><img src="images/pic06.jpg" alt="" /></a>
-											<h3 class="major">Ante fermentum</h3>
-											<p>Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id nulla dignissim dapibus ultrices.</p>
-											<a href="#" class="special">Learn more</a>
-										</article>
-										<article>
-											<a href="#" class="image"><img src="images/pic07.jpg" alt="" /></a>
-											<h3 class="major">Fusce consequat</h3>
-											<p>Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id nulla dignissim dapibus ultrices.</p>
-											<a href="#" class="special">Learn more</a>
-										</article>
-										-->
 									</section>
 
-
+                                    {% comment %}
 									<ul class="actions">
-                                        <!-- Need a blog index page here -->
 										<li><a href="#" class="button">Browse All</a></li>
 									</ul>
+                                    {% endcomment %}
 								</div>
 
 							</section>
