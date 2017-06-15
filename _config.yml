@@ -3,7 +3,7 @@ description: Hi 👋 Welcome to my website & portfolio. I'm a UI Developer & Des
 keywords: Front-end developer, UI/UX Design, Shopify Developer
 author: Sean Orfila
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "https://sean-orfila.com" # the base hostname & protocol for your site
 
 
 # Build settings
