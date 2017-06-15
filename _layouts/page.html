@@ -18,6 +18,10 @@ layout: default
 
         <div class="wrapper">
             <div class="inner">
+                {% if page.author %}
+                    <h3>By: {{ page.author }}</h3>
+                    <hr>
+                {% endif %}
                 {{ content }}
             </div>
         </div>
