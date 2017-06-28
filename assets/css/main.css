@@ -3769,3 +3769,13 @@ a.special:not(.button) {
     background-repeat: no-repeat;
     background-size: contain;
 }
+
+@media screen and (max-width: 640px) {
+    .\36 u, .\36 u\24 {
+            width: 100%;
+       }
+
+    .button {
+        padding: 0 25px;
+    }
+}
