@@ -1,4 +1,3 @@
-.gitignore
 .idea/
 Gemfile.lock
 _site/
