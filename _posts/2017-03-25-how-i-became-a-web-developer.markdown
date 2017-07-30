@@ -22,23 +22,23 @@ What began as my hobby in college eventually became a full-time trade -- how tha
 
 In 2002 I was a student in the journalism department at CSU Long Beach. Luckily the university had the foresight to see the inevitable demise of the printed newspaper. We were encouraged to study **html** and **css** in addition to the regular curricula of **design**, **copy editing**, **writing** and **investigative journalism**. 
 
-By 2004 newspaper sales were crashing and we began relying on the web for our daily information. Twitter wasn't even invented yet.
+By 2004 newspaper sales were crashing and we began relying on the web for our daily information. Twitter hadn't even been invented yet.
 
 {% include image-small.html url="/images/travelin-1.jpg" description="Surf bum" %} 
 
 ### Travel Days
 
-I was reluctant to find full-time work in the journalism world, and instead, I set about living my 20s doing the dirtbag surf/travel thing, spending half my year **lifeguarding in Huntington Beach** and the other half **traveling to Indonesia, Mexico, Central America, Canada or some other far away land**.
+I set about living my 20s on the road, living out of a surfboard bag and spending half my year **lifeguarding in Huntington Beach** and the other half **traveling to Indonesia, Mexico, Central America, Canada or some other interesting place**.
 
-I continued dabbling in **html** and **css** while traveling. I did it for fun really. I'd grown up with computers so I knew my way around the machine. I'd make blogs with my travel photos & writing, publish content and stories in **surf magazines** and write trip reports on forums. I generally messed around on **Blogger**. Nothing serious. 
+I continued dabbling in **html** and **css** while traveling. I did it for fun really. I'd grown up with computers so I knew my way around a machine. I'd make blogs with travel photos & writings, publish content and stories in **surf magazines** and write trip reports. I generally messed around on **Blogger**. Nothing serious.
 
 ---
 
 ### Making stuff for other people
 
-Things began getting a bit more professional in 2005. That was when I created my first (real) website for a local non-profit. I built it with Adobe DreamWeaver. The site launched without any major issues and it was my first project that wasn't a blogger site or a custom myspace profile. It was straight-up code! No CMS.
+Things began getting a bit more professional in 2005. That was when I created my first (real) website for a local non-profit. I built it with Adobe DreamWeaver. The site launched successfully and was my first project that wasn't a blogger site or a custom myspace profile. It was straight-up code! No CMS.
  
-After creating that site, I was soon offered a few other jobs to create a websites for other people via word-of-mouth. When I began saying **yes** all the time is things went south. **After a year or so, I was overwhelmed**. It wasn't the code, it was the business of coding. 
+After creating that site, I was soon offered a few other jobs by word-of-mouth to create other websites. When I began saying **yes** all the time is things went south. **After a year or so, I was overwhelmed**. It wasn't the code, it was the business of coding.
 
 **I had zero business skills.**
 
@@ -58,7 +58,7 @@ This was the view from my office:
 
 ### Leaving the beach
 
-The lifeguarding gig wasn't a long-term option me. Permanent lifeguard jobs are rare, and I was getting burnt out dealing with the hordes of people in HB. I wrapped up another safe summer and tried my luck apprenticing with a master hardwood flooring contractor.
+The lifeguarding gig wasn't a long-term option me. Permanent lifeguard positions are rare, and I was getting burnt out dealing with the hordes of people. I wrapped up another safe summer and tried my luck apprenticing with a master hardwood flooring contractor.
 
 {% include image.html url="/images/hardwood.jpg" description="Hardwood Flooring" %} 
 
@@ -78,4 +78,4 @@ When the woodworking slowed, I decided to try another go with web development. B
 
 You see, not only did I learn woodwork from that old master craftsman, I learned the importance of bidding, estimating, drawing a fair scope of work, and delivering something that truly pleased the end user. It was basically what I was missing the first time around.
 
-After burying myself in code again, the freelance gigs and job offers snowballed -- and I've taken a craftsman's approach to the craft ever since.
+After burying myself in code again, the freelance gigs and job offers picked up -- and I've taken the craftsman's approach to web development ever since.
