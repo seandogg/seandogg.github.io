@@ -1,6 +1,6 @@
 ---
 title:  "How I Became a Web Developer"
-subtitle: "The internet is my hobby."
+subtitle: "The internet as my hobby."
 excerpt: "I didn't set out to write software for a living. I figured I'd work outdoors, tour with a band, or travel around living out of a backpack. But alas, life has a strange, meandering path..."
 author: "Sean Orfila"
 date:   2017-03-25 12:12:12
