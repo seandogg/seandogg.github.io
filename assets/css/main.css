@@ -1703,14 +1703,17 @@
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #ffffff !important;
 		}
 
 
 a:hover {
+    /*
     -webkit-animation: zomg 1.5s infinite;
     -moz-animation: zomg 1.5s infinite;
     animation: zomg 1.5s infinite;
+    */
+    color: #95dbc2;
+    transition: color 500ms ease-in-out;
 }
 
 @-webkit-keyframes zomg {
