@@ -19,6 +19,7 @@ image: "images/art-brushes.jpg"
 # JavaScript
 
 - [Why it’s important to know the basics of web development before you use a framework](https://www.chenhuijing.com/blog/people-are-the-problem/)
+- [Apollo (GraphQL) + Next.js (React) == 'Awesome'](https://dev-blog.apollodata.com/whats-next-js-for-apollo-e4dfe835d070)
 - [Real-Time Search in JavaScript](https://osvaldas.info/real-time-search-in-javascript)
 - [JSONfeed](https://jsonfeed.org/)
 - [React Native Tutorial – Building Your First iOS App With JavaScript (Part 1)](https://www.smashingmagazine.com/2016/04/the-beauty-of-react-native-building-your-first-ios-app-with-javascript-part-1/)
