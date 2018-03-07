@@ -6,3 +6,4 @@ _site
 
 # Ignore the mathjax plugin. Needed only for local development
 assets/mathjax
+.idea
