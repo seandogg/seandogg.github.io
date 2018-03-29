@@ -6,6 +6,7 @@ mathjax: true
 typefix:
    indent: true
 date: 2016-02-05T03:47:56-05:00
+published: false
 ---
 
 Let's look at this question which was first appeared in the Mathematics Magazine 1950. It was put forward

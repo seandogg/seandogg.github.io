@@ -7,6 +7,7 @@ typefix:
    indent: true
 description: The Fairytale theme reflects Balzac in basic functionality
 date: 2016-01-31T05:53:04-05:00
+published: false
 ---
 
 *I* thought Balzac was a wizard's name. So when I forked and tweaked [Cole Townsend's](@twnsndco) Balzac for Jekyll theme I named it Fairytale. It's a theme which is heavy on typography. I did little modification to the home page. But I took my liberty with the rest. Fairytale is my first theme for jekyll. I didn't change the layout more than was necessary since I intend the theme to reflect Balzac in functionaliy. 

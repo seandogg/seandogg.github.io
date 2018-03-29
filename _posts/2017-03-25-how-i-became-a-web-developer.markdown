@@ -10,6 +10,8 @@ category: articles
 typefix:
    indent: false
 tags: [sample post, readability, test]
+image:
+  feature: "soft-trees.jpg"
 ---
 
 *I* didn't set out to write software for a living. I figured I'd **work outdoors, tour with a band, live out of my backpack, or sail to Mexico**. All of which I'd done by age 23.

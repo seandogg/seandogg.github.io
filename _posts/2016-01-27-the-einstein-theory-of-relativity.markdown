@@ -6,6 +6,7 @@ quote: To inspire ambition, to stimulate the imagination.
 typefix:
    indent: true
 date: 2016-01-27T04:50:35-05:00
+published: false
 ---
 
 *T*he total eclipse of the sun of May 29, re­sulted in a strik­ing con­fir­ma­tion of the new the­ory of the uni­ver­sal at­trac­tive power of grav­i­ta­tion de­vel­oped by Al­bert Ein­stein, and thus re­in­forced the con­vic­tion that the defin­ing of this the­ory is one of the most im­por­tant steps ever taken in the do­main of nat­ural sci­ence. In re­sponse to a re­quest by the ed­i­tor, I will at­tempt to con­tribute some­thing to its 6gen­eral ap­pre­ci­a­tion in the fol­low­ing lines.

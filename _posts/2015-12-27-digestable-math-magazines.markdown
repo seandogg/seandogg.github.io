@@ -4,6 +4,7 @@ title:  "Easily Digestible Mathematical Magazines"
 description: Smelly cat, smelly cat...
 date:   2015-12-27 10:46:47 +0530
 categories: [mathematics]
+published: false
 ---
 
 *L*ets get things straight. I hate lists. There's so many lists on the Internet that I when I see another one, I blow my top. Don't get me wrong. Lists are really good at organizing information. But it's in bad taste. That's why I promised myself I won't write another list until their was a good reason for it. This qualifies.

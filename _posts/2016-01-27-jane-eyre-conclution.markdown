@@ -4,6 +4,7 @@ title: Jane Eyre
 typefix:
    indent: true
 date: 2016-01-27T04:44:12-05:00
+published: false
 ---
 
 *R*eader, I married him. A quiet wed­ding we had: he and I, the par­son and clerk, were alone pre­sent. When we got back from church, I went into the kitchen of the manor-house, where Mary was cook­ing the din­ner and John clean­ing the knives, and I said — "Mary, I have been mar­ried to Mr. Rochester this morn­ing." The house­keeper and her hus­band were both of that de­cent phleg­matic order of peo­ple, to whom one may at any time safely com­mu­ni­cate a re­mark­able piece of news with­out in­cur­ring the dan­ger of hav­ing one's ears pierced by some shrill ejac­u­la­tion, and sub­se­quently stunned by a tor­rent of wordy won­der­ment. Mary did look up, and she did stare at me: the ladle with which she was bast­ing a pair of chick­ens roast­ing at the fire, did for some three min­utes hang sus­pended in air; and for the same space of time John's knives also had rest from the pol­ish­ing process: but Mary, bend­ing again over the roast, said only— "Have you, Miss? Well, for sure!" A short time after she pur­sued—"I seed you go out with the mas­ter, but I didn't know you were gone to church to be wed;" and she basted away.

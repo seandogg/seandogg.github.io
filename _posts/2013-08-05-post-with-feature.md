@@ -8,6 +8,7 @@ typefix:
 tags: [intro, beginner, jekyll, tutorial]
 image:
   feature: "soft-trees.jpg"
+published: false
 ---
 
 

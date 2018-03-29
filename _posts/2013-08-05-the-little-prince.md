@@ -4,6 +4,7 @@ title: "Image in Post"
 description:
 comments: true
 category: articles
+published: false
 ---
 > "Once when I was six years old I saw a magniﬁcent picture in a book, called
 >True Stories from Nature, about the primeval forest."
