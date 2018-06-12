@@ -17,7 +17,7 @@ title: Sean Orfila
 email: sean.orfila@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Design & Frontend
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "https://sean-orfila.com" # the subpath of your site, e.g. /blog
 url: "https://sean-orfila.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: seanorfila
 github_username:  seandogg
