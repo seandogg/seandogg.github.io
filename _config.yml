@@ -17,7 +17,7 @@ title: Sean Orfila
 email: sean.orfila@gmail.com
 description: Design & Frontend
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://sean-orfila.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://sean-orfila.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: seanorfila
 github_username:  seandogg
 
@@ -31,11 +31,11 @@ plugins:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-exclude:
- - Gemfile
- - Gemfile.lock
- - node_modules
- - vendor/bundle/
- - vendor/cache/
- - vendor/gems/
- - vendor/ruby/
+#exclude:
+# - Gemfile
+# - Gemfile.lock
+# - node_modules
+# - vendor/bundle/
+# - vendor/cache/
+# - vendor/gems/
+# - vendor/ruby/
