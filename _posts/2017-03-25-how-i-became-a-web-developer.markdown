@@ -7,6 +7,7 @@ date:   2017-03-25 12:12:12
 layout: "page"
 permalink: "how-i-became-a-web-developer"
 image: "images/g.jpeg"
+published: false
 ---
 
 {% include image.html url="/images/surf-check.jpg" description="Drifting" %} 
