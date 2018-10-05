@@ -30,12 +30,12 @@
 
 // Font.
 	$font: (
-		family:					('Source Sans Pro', Helvetica, sans-serif),
+		family:					('Catamaran', 'Source Sans Pro', Helvetica, sans-serif),
 		family-fixed:			('Courier New', monospace),
-		family-heading:			(Raleway, Helvetica, sans-serif),
-		weight:					300,
-		weight-bold:			600,
-		weight-heading:			200,
+		family-heading:			('Playfair Display', Raleway, Helvetica, sans-serif),
+		weight:					400,
+		weight-bold:			700,
+		weight-heading:			400,
 		weight-heading-bold:	700,
 		kern-heading:			0.1em
 	);
