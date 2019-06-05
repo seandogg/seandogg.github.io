@@ -24,11 +24,11 @@ title:                 Sean Orfila
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hi 👋 I'm a senior web developer specializing in Shopify, user experience design, and online retail.
+  Hi 👋 I'm a senior web designer and developer specializing in Shopify, online retail, and user experience design.
 
 # A shorter description for the sidebar.
 tagline:               >
- code, coffee, design, and nature
+ web design 🦄 code 🚀 e-commerce
 
 # A list of keywords for your blog
 keywords:              [shopify developer, senior shopify developer, freelance shopify developer, best shopify developer, shopify designer, frontend web development, shopify, shopify coding, shopify designers, sean orfila]
@@ -43,12 +43,14 @@ author:
   name:                Sean Orfila
   email:               hello@sean-orfila.com
   # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+  twitter:             seanorfila
 
 # Add links to the sidebar.
 menu:
   - title:             blog
     url:               /blog/
+  - title:             about
+    url:               /about/
   - title:             projects
     url:               /projects/
   - title:             resume
@@ -270,6 +272,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-titles-from-headings
+  - jekyll-avatar
 
 # Theme
 # ---------------------------------------------------------------------------------------

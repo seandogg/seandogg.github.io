@@ -1,8 +1,13 @@
 ---
-cover: true
-image: /assets/img/hydejack-8.png
-hide_description: true
+# file: index.md
+layout: welcome
+title:  Welcome
+cover:  true
 ---
+
+<!-- projects -->
+
+<!-- posts -->
 
 # Thank You
 Thank you for buying the PRO version of Hydejack! 🎉
