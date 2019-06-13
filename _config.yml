@@ -24,11 +24,11 @@ title:                 Sean Orfila
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hi 👋 I'm a senior web designer and developer specializing in Shopify, online retail, and user experience design.
+  Hi! 👋 I run a tiny web design shop on an island near Canada.
 
 # A shorter description for the sidebar.
 tagline:               >
- web design 🦄 code 🚀 e-commerce
+ web design 🦄 code 🚀 ecommerce
 
 # A list of keywords for your blog
 keywords:              [shopify developer, senior shopify developer, freelance shopify developer, best shopify developer, shopify designer, frontend web development, shopify, shopify coding, shopify designers, sean orfila]
@@ -203,7 +203,7 @@ hydejack:
   # Note that dark mode only works in the PRO version of Hydejack.
   dark_mode:
     # Set to `true` to always use the dark theme.
-    always:            false
+    always:            true
 
     # Set to `true` to use the dark theme based on visitors' local time.
     dynamic:           false
