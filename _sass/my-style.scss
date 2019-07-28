@@ -11,3 +11,29 @@
 pre.highlight {
   white-space: pre-wrap;
 }
+
+.logo-grid {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.logo-grid-img {
+  max-width: 225px;
+  border-radius: 6px;
+  margin: 20px auto;
+  padding: 0 12px;
+}
+
+body:not(.dark-mode) .logo-grid-img.dark {
+  background-color: #2d3539;
+  padding: 15px 20px;
+  transition: all 1s ease, border-color 1s ease;
+}
+
+.no-u {
+  color: transparent;
+  border: none;
+  text-decoration: none;
+}

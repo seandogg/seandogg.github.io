@@ -1,13 +1,83 @@
 ---
 layout: post
-title: Creating An Accordion for Your Shopify Page 
+title: Creating An Accordion for Shopify Pages 
 description: >
-  This accordion code is pure html/css and should (hopefully) inherit your theme's styles.
-image: /assets/img/blog/mad-men-joan-accordion.gif
+   In web development, an `accordion` is something that expands on a user's click.
+image: /assets/img/blog/accordion.gif
 excerpt_separator: <!--more-->
 ---
 
-Sharing a code snippet here that anyone can use for creating an `accordion` in Shopify. An `accordion` is something that expands on a user's click. This is an extra-long snippet for those that have extra-long content. Simply swap the text with yours. Be sure to throw me a shaka 🤙 in the comment section if it works! 
+<!-- Begin Accordion Snippet -->
+<style>
+  .so-tab {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    margin: 25px 0;
+  }
+  .so-tab label {
+    position: relative;
+    display: block;
+    padding: 0 25px 0 0;
+    margin-bottom: 15px;
+    line-height: normal;
+    cursor: pointer;
+  }
+  .so-tab input {
+    position: absolute;
+    opacity: 0;
+    z-index: -1;
+  }
+  .so-tab-content {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height .35s;
+  }
+  /* :checked */
+  .so-tab input:checked ~ .so-tab-content {
+    max-height: none;
+  }
+  /* Icon */
+  .so-tab label::after {
+    position: absolute;
+    right: 0;
+    top: 0;
+    display: block;
+    -webkit-transition: all .35s;
+    -o-transition: all .35s;
+    transition: all .35s;
+  }
+  .so-tab input[type=checkbox] + label::after {
+    content: "+";
+  }
+  .so-tab input[type=radio] + label::after {
+    content: "\25BC";
+  }
+  .so-tab input[type=checkbox]:checked + label::after {
+    transform: rotate(315deg);
+  }
+  .so-tab input[type=radio]:checked + label::after {
+    transform: rotateX(180deg);
+  }
+</style>
+
+
+<div class="so-accordion-wrapper">
+  <div class="so-tab">
+    <input id="so-tab-1" type="checkbox" name="tabs" />
+    <label for="so-tab-1"><u>Click Me. I'm an accordion.</u></label>
+    <div class="so-tab-content">
+      <blockquote>
+        <p>Well hello there buddy... click on that there title one more time and fold this thing back up! Otherwise, here's a bunch more text that would go on and on til the break of dawn.</p>
+        <p>Here we are, reading placeholder, holding hands, together. Forever. And ever. And ever. And ever.</p>
+        </blockquote>
+    </div>
+  </div>
+</div>
+
+<br/>
+
+**Note:** The following code snippet is **pure html/css** and does not require javascript or jquery. It should inherit your theme's style.
 
 <!--more-->
 

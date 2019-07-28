@@ -8,12 +8,11 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    With over 7 years of experience designing and coding for Shopify, I've experienced first-hand the explosive growth of online retail.
-    Follow me as we walk through the latest design trends and what is (and is not) working for today's brands.
+    Hi! 👋 I'm Sean Orfila. I'm an experienced web developer and web designer open to new projects. Thanks for dropping in. If you like this content, be sure to subscribe!
 
   # This photo will be used in the about section
   picture:
-    path:            /assets/img/shredding.jpg
+    path:            /assets/img/sean-orfila-2.jpg
     # srcset is optional, but can be used to provide higher res versions for retina displays
 #    srcset:
 #      1x:            https://placehold.it/128x128
@@ -23,9 +22,9 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         <username>
-    github:          <username>
-    # email:           <mail@domain.tld>
+    twitter:         seanorfila
+    github:          seandogg
+    email:           hello@sean-orfila.com
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -54,7 +53,7 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    # linkedin:        <firstname-lastname-string>
+    linkedin:          sean-orfila
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
@@ -63,19 +62,19 @@ author1:
     # download:        <url>
 
 # Another author (optional)
-author2:
-  name:              <firtname> <lastname>
-  email:             <mail@domain.tld>
-  about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-    Open `_data/authors.yml` to edit this text.
-  picture:           https://placehold.it/128x128
-  twitter:           <username>
-  github:            <username>
-  accent_color:      '#268bd2'
-  accent_image:
-    background:      '#202020'
-    overlay:         false
+#author2:
+#  name:              <firtname> <lastname>
+#  email:             <mail@domain.tld>
+#  about:             |
+#    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+#    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+#
+#    Open `_data/authors.yml` to edit this text.
+#  picture:           https://placehold.it/128x128
+#  twitter:           <username>
+#  github:            <username>
+#  accent_color:      '#268bd2'
+#  accent_image:
+#    background:      '#202020'
+#    overlay:         false

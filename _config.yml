@@ -24,19 +24,19 @@ title:                 Sean Orfila
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hi! 👋 I run a tiny web design shop on an island near Canada.
+  Hi! 👋 I run a tiny web design shop from an island near Seattle!
 
 # A shorter description for the sidebar.
 tagline:               >
  web design 🦄 code 🚀 ecommerce
 
 # A list of keywords for your blog
-keywords:              [shopify developer, senior shopify developer, freelance shopify developer, best shopify developer, shopify designer, frontend web development, shopify, shopify coding, shopify designers, sean orfila]
+keywords:              [shopify consulting, ux design, ecommerce blog, sean orfila design]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/icons/sean-orfila.jpg
+logo:                  /assets/icons/sean-orfila-logo.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -83,7 +83,6 @@ paginate_path:         /blog/page-:num/
 # Sidebar image and theme color of the site.
 accent_image:          /assets/img/sidebar-bg6.jpg
 accent_color:          rgb(79,177,186)
-#accent_color:          rgb(33, 43, 54)
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
@@ -303,11 +302,11 @@ plugins:
 #   admins:              <id>
 
 # Used on index and about sites
-# social:
-#   name:                <firstname> <lastname>
-#   links:
-#     - https://twitter.com/<username>
-#     - https://github.com/<username>
+social:
+  name:                sean orfila
+  links:
+     - https://twitter.com/seanorfila
+     - https://github.com/seandoggg
 
 
 # Other Plugins
