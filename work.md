@@ -6,10 +6,11 @@ description: >
    For more detailed showcases, or a personal walkthrough of recent work, feel free to [contact me](mailto:hello@sean-orfila.com) directly.
 accent_image: 
 #  background: 'linear-gradient(to bottom,#193747 0%,#233e4c 30%,#3c929e 50%,#d5d5d4 70%,#cdccc8 100%)'
-  background: url('/assets/img/nathan-dumlao-photo.jpg') bottom center
+  background: url('/assets/img/bg1.jpg') center top
+  
 ---
 
-# Recent Clients
+# Recent Clients 
 
 ---
 
@@ -35,10 +36,23 @@ accent_image:
   <img class="logo-grid-img dark" src="/assets/img/work/logo_fix.png" alt="logo">
 </a>
 
-<a class="no-u" href="https://www.moderntimesmerch.com" target="_blank">
-  <img class="logo-grid-img dark" src="/assets/img/work/mt-logo.png" alt="logo">
+<a class="no-u" href="https://shop.cleobella.com" target="_blank">
+  <img class="logo-grid-img" src="/assets/img/work/cb.png" alt="logo">
 </a>
 
+<a class="no-u" href="https://montiel.com/" target="_blank">
+  <img class="logo-grid-img" src="/assets/img/work/mont.jpg" alt="logo">
+</a>
+
+<a class="no-u" href="https://shop.sebastianlive.com/" target="_blank">
+  <img class="logo-grid-img" src="/assets/img/work/seb.jpg" alt="logo">
+</a>
+
+<a class="no-u" href="https://crossfit.com/" target="_blank">
+  <img class="logo-grid-img" src="/assets/img/work/cf.jpg" alt="logo">
+</a>
+
+<a class="no-u" href="https://www.yellow108.com/" target="_blank">
+  <img class="logo-grid-img" src="/assets/img/work/yel.jpg" alt="logo">
+</a>
 </div>
-
-

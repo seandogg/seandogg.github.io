@@ -2,19 +2,20 @@
 layout: resume
 title: Résumé*
 description: >
-  This is the `description` of your resume page, as it will be seen by search engines.
-  Open `resume.md` to edit this text.
+  I'm a Frontend Web Developer and consultant specializing in online retail, Shopify, and user experience design. 
+accent_image: 
+  background: url('/assets/img/sidebar-bg9.jpg')
 hide_description: false
 menu: true
 order: 3
 left_column:
  - work
- - volunteer
  - education
+ - volunteer
  - awards
  - publications
- - references
 right_column:
+ - references
  - languages
  - skills
  - interests

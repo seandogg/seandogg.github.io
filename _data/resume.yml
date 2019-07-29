@@ -2,102 +2,136 @@
 # If you don't have a JSON Resume you can just edit this YAML file instead.
 # See also: <https://jsonresume.org/>.
 basics:
-  name: "Richard Hendricks"
-  label: "Programmer"
-  picture: "/assets/icons/icon.png"
-  email: ""
-  phone: "(912) 555-4321"
-  website: "https://piedpiper.com"
+  name: "Sean Orfila"
+  label: "Frontend Developer and Shopify Consultant"
+  # picture: "/assets/icons/icon.png"
+  email: "sean.orfila@gmail.com"
+  phone: "(714) 287-1017"
+  website: "https://sean-orfila.com"
   summary: >
-    Richard hails from Tulsa.
-    He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!)
-    Before starting Pied Piper, he worked for Hooli as a part time software developer.
-    While his work focuses on applied information theory,
-    mostly optimizing lossless compression schema of both the length-limited and adaptive variants,
-    his non-work interests range widely,
-    everything from quantum computing to chaos theory.
-    He could tell you about it, but THAT would NOT be a “length-limited” conversation!
-    Open `_data/resume.yml` to edit this text.
+    With six years of experience coding and designing websites, web apps, and email campaigns, I'm consistently looking forward to learning each day and working on my craft.
+    I've worked on development teams, and alone. In-house, and remote. I use **Sketch**, **Adobe XD**, **Photoshop**, **Git**, and have recently been exploring GraphQL and learning new things with Shopify Apps.
+
+    On teams, I'm typically considered the person bridging the design and code, creating that pixel-perfect UI, and coding performant user experiences that look and work well.
   location:
-    address: "2712 Broadway St"
-    postalCode: "CA 94115"
-    city: "San Francisco"
+#    address: "2712 Broadway St"
+    # postalCode: "98260"
+    city: "South Whidbey Island"
     countryCode: "US"
-    region: "California"
+    region: "Washington"
   profiles:
     - network: "Twitter"
-      username: "RHendricksCEO"
-      url: ""
+      username: "seanorfila"
+      url: "https://twitter.com/SeanOrfila"
     - network: "LinkedIn"
-      username: "Richard Hendricks"
-      url: ""
+      username: "sean-orfila"
+      url: "https://www.linkedin.com/in/sorfila/"
 work:
-  - company: "Pied Piper"
-    position: "CEO/President"
-    website: "https://piedpiper.com"
-    startDate: "2013-12-01"
+  - company: "Grizzly & Poppy"
+    position: "Founder and Lead Developer"
+    website: "https://grizzlypoppy.com"
+    startDate: "2018-11-01"
     endDate: ""
     summary: >
-      Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has
-      consistently fielded high Weisman Scores™ that are not merely competitive,
-      but approach the theoretical limit of lossless compression.
-    highlights:
-      - "Build an algorithm for artist to detect if their music was violating copy right infringement laws"
-      - "Successfully won Techcrunch Disrupt"
-      - "Optimized an algorithm that holds the current world record for Weisman Scores"
+       A solopreneur consultancy focused on design & code for Shopify and Shopify Plus merchants.
+  - company: "ShopPad Inc."
+    position: "Frontend Web Developer"
+    website: "https://theshoppad.com"
+    startDate: "2017-08-05"
+    endDate: "2018-10-15"
+    summary: >
+      Designed and developed custom Shopify websites and Shopify apps for a top Shopify Plus agency. Coded HTML5, CSS3, and Javascript to build unique user experiences.
+  - company: "Ambry Genetics"
+    position: "Frontend Software Engineer"
+    website: "https://ambrygenetics.com"
+    startDate: "2016-02-01"
+    endDate: "2017-07-15"
+    summary: >
+      Coded HTML5, CSS3, and JavaScript on a Git and JIRA-based development team. Worked closely with designers and stakeholders to architect and develop internal applications and the company's public-facing website.
+  - company: "HEILBrice"
+    position: "Web Developer (Contractor)"
+    website: "https://heilbrice.com"
+    startDate: "2015-02-01"
+    endDate: "2016-01-01"
+    summary: >
+      Developed custom WordPress and Shopify Themes for an advertising agency. Worked with product managers to code HTML5, CSS3/Sass, and Javascript. Updated and made bug fixes to existing client codebases.
+  - company: "Lido Labs"
+    position: "Web Designer / Developer"
+    website: "https://lidolabs.com"
+    startDate: "2014-06-04"
+    endDate: "2015-01-30"
+    summary: >
+      Developed responsive websites for a variety of businesses as a contract (in-house) web developer. Utilized design-to-code workflows with Sketch, Photoshop, HTML5, CSS3/Scss and jQuery. Updated legacy code systems. Coded custom HTML emails.
+  - company: "Young Company - Creative Marketing Communications"
+    position: "Web Programmer"
+    website: "https://youngcompany.com"
+    startDate: "2013-04-01"
+    endDate: "2014-06-03"
+    summary: >
+      Developed responsive websites for a variety of businesses as a contract (in-house) web developer. Utilized design-to-code workflows with Sketch, Photoshop, HTML5, CSS3/Scss and jQuery. Updated legacy code systems. Coded custom HTML emails
 volunteer:
-  - organization: "CoderDojo"
-    position: "Teacher"
-    website: "https://coderdojo.com/"
-    startDate: "2012-01-01"
-    endDate: "2013-01-01"
-    summary: "Global movement of free coding clubs for young people."
+  - organization: "The Noetic Society, Inc."
+    position: "Board Member & CTO"
+    website: "https://noeticsociety.org/"
+    startDate: "2005-04-01"
+    endDate: ""
+    summary: "The Noetic Society is dedicated to the art of philosophical counseling and the study of ancient Greek and Buddhist philosophy."
     highlights:
-      - "Awarded 'Teacher of the Month'"
+      - Pro-bono web development and design
+      - Board Member
+      - Certified philosophical midwife
 education:
-  - institution: "University of Oklahoma"
-    area: "Information Technology"
-    studyType: "Bachelor"
-    startDate: "2011-06-01"
-    endDate: "2014-01-01"
+  - institution: "CSU Long Beach"
+    area: "Journalism & English"
+    studyType: "Bachelor of Arts"
+    startDate: "2002-01-07"
+    endDate: "2004-12-15"
+    gpa: "3.87"
+#    courses:
+#      - "DB1101 - Basic SQL"
+#      - "CS2011 - Java Introduction"
+  - institution: "Goldenwest College"
+    area: "Gerneral Education"
+    studyType: "Associate of Arts"
+    startDate: "2000-08-01"
+    endDate: "2001-12-15"
     gpa: "4.0"
-    courses:
-      - "DB1101 - Basic SQL"
-      - "CS2011 - Java Introduction"
-awards:
-  - title: "Digital Compression Pioneer Award"
-    date: "2014-11-01"
-    awarder: "Techcrunch"
-    summary: "There is no spoon."
-publications:
-  - name: "Video compression for 3d media"
-    publisher: "Hooli"
-    releaseDate: "2014-10-01"
-    website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
-    summary: "Innovative middle-out compression algorithm that changes the way we store data."
-skills:
-  - name: "Web Development"
-    level: "Master"
-    keywords:
-      - "HTML"
-      - "CSS"
-      - "Javascript"
-  - name: "Compression"
-    level: "Master"
-    keywords:
-      - "Mpeg"
-      - "MP4"
-      - "GIF"
-languages:
-  - language: "English"
-    fluency: "Native speaker"
-interests:
-  - name: "Wildlife"
-    keywords:
-      - "Ferrets"
-      - "Unicorns"
+#    courses:
+#      - "DB1101 - Basic SQL"
+#      - "CS2011 - Java Introduction"
+#awards:
+#  - title: "Digital Compression Pioneer Award"
+#    date: "2014-11-01"
+#    awarder: "Techcrunch"
+#    summary: "There is no spoon."
+#publications:
+#  - name: "Video compression for 3d media"
+#    publisher: "Hooli"
+#    releaseDate: "2014-10-01"
+#    website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
+#    summary: "Innovative middle-out compression algorithm that changes the way we store data."
+#skills:
+#  - name: "Web Development"
+#    level: "Master"
+#    keywords:
+#      - "HTML"
+#      - "CSS"
+#      - "Javascript"
+#  - name: "Compression"
+#    level: "Master"
+#    keywords:
+#      - "Mpeg"
+#      - "MP4"
+#      - "GIF"
+#languages:
+#  - language: "English"
+#    fluency: "Native speaker"
+#interests:
+#  - name: "Wildlife"
+#    keywords:
+#      - "Ferrets"
+#      - "Unicorns"
 references:
-  - name: "Erlich Bachman"
+  - name: "Lan Li - VaporDNA"
     reference: >
-      It is my pleasure to recommend Richard, his performance working as a consultant for Main St.
-      Company proved that he will be a valuable addition to any company.
+      "Great experience! Sean is the best. Always there to help with every question I have"
