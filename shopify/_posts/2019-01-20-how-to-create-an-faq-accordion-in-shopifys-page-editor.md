@@ -6,6 +6,7 @@ description: >
 image: /assets/img/blog/accordion.gif
 excerpt_separator: <!--more-->
 comments: true
+redirect_from: /how-to-create-an-faq-accordion-in-shopifys-page-editor
 ---
 
 <!-- Begin Accordion Snippet -->

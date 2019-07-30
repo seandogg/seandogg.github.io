@@ -6,6 +6,7 @@ description: >
 image: /assets/img/blog/slow.jpg
 excerpt_separator: <!--more-->
 comments: true
+redirect_from: /how-to-speed-up-shopifys-page-load-time
 ---
 
 Almost daily it seems someone assumes their entire business is on fire because they ran a page load test on GTMatrix, WebSpeedTest or Pingdom.
@@ -19,7 +20,7 @@ The gaming / social media addiction kicks in, and people get stuck on lowering t
 The fastest scaling business in internet history isn't passing your speed test either.
 {:.figure}
 
-Take a deep breath. This might shock you. **[Apple.com](https://apple.com) regularly scores an F** (today it's a **C-**), **[Shopify's homepage](https://shopify.com) is scoring a D**, and the largest brands on Shopify ([Kylie Cosmetics](https://www.kyliecosmetics.com/) and [FashionNova](https://fashionnova.com)) are both **scoring an E** (worse than an F!).
+Take a deep breath. This might shock you... **[Apple.com](https://apple.com) regularly scores an F** (today it's a **C-**), **[Shopify's homepage](https://shopify.com) is scoring a D**, and the largest brands on Shopify ([Kylie Cosmetics](https://www.kyliecosmetics.com/) and [FashionNova](https://fashionnova.com)) are both **scoring an E** (worse than an F!).
 
 ## Takeaway
 These are some of the highest-volume, most-visited websites in online retail and they're bombing the page speed test. Yet, they probably don't care much because they're seeing millions of orders a year.
