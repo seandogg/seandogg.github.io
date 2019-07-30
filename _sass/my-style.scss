@@ -11,25 +11,3 @@
 pre.highlight {
   white-space: pre-wrap;
 }
-
-.logo-grid {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  flex-wrap: wrap;
-  background-color: white;
-  padding: 15px;
-
-}
-
-.logo-grid-img {
-  max-width: 225px;
-  margin: 0 auto;
-  padding: 0;
-}
-
-.no-u {
-  color: transparent;
-  border: none;
-  text-decoration: none;
-}
