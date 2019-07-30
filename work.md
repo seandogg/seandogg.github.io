@@ -10,14 +10,18 @@ accent_image:
   
 ---
 
-# Recent Clients 
+# Recent Clients
 
 ---
 
 <div class="logo-grid lead">
 
 <a class="no-u" href="https://www.moderntimesmerch.com" target="_blank">
-  <img class="logo-grid-img dark" src="/assets/img/work/mt-logo.png" alt="logo">
+  <img class="logo-grid-img dark" src="/assets/img/work/mt-logo.jpg" alt="logo">
+</a>
+
+<a class="no-u" href="https://store.blackeyedpeas.com" target="_blank">
+  <img class="logo-grid-img dark" src="/assets/img/work/bep-logo.jpg" alt="logo">
 </a>
 
 <a class="no-u" href="https://www.shopdeseda.com" target="_blank">
@@ -25,15 +29,11 @@ accent_image:
 </a>
 
 <a class="no-u" href="https://www.lifebejeweled.com" target="_blank">
-  <img class="logo-grid-img" src="/assets/img/work/ras.png" alt="logo"> 
+  <img class="logo-grid-img" src="/assets/img/work/lb-logo.jpg" alt="logo"> 
 </a>
 
 <a class="no-u" href="https://www.vapordna.com" target="_blank">
   <img class="logo-grid-img" src="/assets/img/work/vape.jpg" alt="logo">
-</a>
-
-<a class="no-u" href="https://store.blackeyedpeas.com" target="_blank">
-  <img class="logo-grid-img dark" src="/assets/img/work/logo_fix.png" alt="logo">
 </a>
 
 <a class="no-u" href="https://shop.cleobella.com" target="_blank">
@@ -45,7 +45,7 @@ accent_image:
 </a>
 
 <a class="no-u" href="https://shop.sebastianlive.com/" target="_blank">
-  <img class="logo-grid-img" src="/assets/img/work/seb.jpg" alt="logo">
+  <img class="logo-grid-img" src="/assets/img/work/seb-logo.jpg" alt="logo">
 </a>
 
 <a class="no-u" href="https://crossfit.com/" target="_blank">
@@ -54,5 +54,25 @@ accent_image:
 
 <a class="no-u" href="https://www.yellow108.com/" target="_blank">
   <img class="logo-grid-img" src="/assets/img/work/yel.jpg" alt="logo">
+</a>
+
+<a class="no-u" href="https://www.dope.com/" target="_blank">
+  <img class="logo-grid-img" src="/assets/img/work/do-logo.jpg" alt="logo">
+</a>
+
+<a class="no-u" href="https://northmenswear.com/" target="_blank">
+  <img class="logo-grid-img" src="/assets/img/work/north-logo.jpg" alt="logo">
+</a>
+
+<a class="no-u" href="https://www.thetrackr.com/" target="_blank">
+  <img class="logo-grid-img" src="/assets/img/work/tra-logo.jpg" alt="logo">
+</a>
+
+<a class="no-u" href="https://www.vintagesports.com/" target="_blank">
+  <img class="logo-grid-img" src="/assets/img/work/vin-logo.jpg" alt="logo">
+</a>
+
+<a class="no-u" href="https://www.sevenly.org/" target="_blank">
+  <img class="logo-grid-img" src="/assets/img/work/sev-logo.jpg" alt="logo">
 </a>
 </div>

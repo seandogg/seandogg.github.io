@@ -4,19 +4,19 @@
 basics:
   name: "Sean Orfila"
   label: "Frontend Developer and Shopify Consultant"
-  # picture: "/assets/icons/icon.png"
-  email: "sean.orfila@gmail.com"
+  picture: "/assets/img/sean-orfila-2.jpg"
+  email: "hello@sean-orfila.com"
   phone: "(714) 287-1017"
   website: "https://sean-orfila.com"
   summary: >
-    With six years of experience coding and designing websites, web apps, and email campaigns, I'm consistently looking forward to learning each day and working on my craft.
-    I've worked on development teams, and alone. In-house, and remote. I use **Sketch**, **Adobe XD**, **Photoshop**, **Git**, and have recently been exploring GraphQL and learning new things with Shopify Apps.
-
-    On teams, I'm typically considered the person bridging the design and code, creating that pixel-perfect UI, and coding performant user experiences that look and work well.
+    Six years experience coding and designing websites, web apps, and email campaigns for high volume/high sales retail websites.
+    I’ve worked both on development teams, and solo. Including in-house, and remote roles.
+    My tools are **Sketch**, **Adobe XD**, **Photoshop**, **Git**, **HTML5**, **Liquid**, **CSS3**, and **JavaScript**. I’ve recently been exploring GraphQL and Shopify Apps.
+    Working on teams, I’m typically considered as the one **bridging gap between design and code**, creating pixel-perfect UI, and coding performant user experiences that look great and run well.
   location:
-#    address: "2712 Broadway St"
+    # address: "2712 Broadway St"
     # postalCode: "98260"
-    city: "South Whidbey Island"
+    city: "Langley"
     countryCode: "US"
     region: "Washington"
   profiles:
@@ -33,14 +33,14 @@ work:
     startDate: "2018-11-01"
     endDate: ""
     summary: >
-       A solopreneur consultancy focused on design & code for Shopify and Shopify Plus merchants.
+      Founded a micro-startup specializing in modern web design and development. I mainly partner with digital agencies as a contractor for front end code and UX design.
   - company: "ShopPad Inc."
     position: "Frontend Web Developer"
     website: "https://theshoppad.com"
     startDate: "2017-08-05"
     endDate: "2018-10-15"
     summary: >
-      Designed and developed custom Shopify websites and Shopify apps for a top Shopify Plus agency. Coded HTML5, CSS3, and Javascript to build unique user experiences.
+      Working on a development team, built highly custom Shopify Themes and coded Shopify App UIs for a top Shopify Plus agency. Utilized git & github. Provided UX Designs for themes and marketing teams.
   - company: "Ambry Genetics"
     position: "Frontend Software Engineer"
     website: "https://ambrygenetics.com"
@@ -110,19 +110,36 @@ education:
 #    releaseDate: "2014-10-01"
 #    website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
 #    summary: "Innovative middle-out compression algorithm that changes the way we store data."
-#skills:
-#  - name: "Web Development"
-#    level: "Master"
-#    keywords:
-#      - "HTML"
-#      - "CSS"
-#      - "Javascript"
-#  - name: "Compression"
-#    level: "Master"
-#    keywords:
-#      - "Mpeg"
-#      - "MP4"
-#      - "GIF"
+skills:
+  - name: "Frontend Code"
+    level: "Expert"
+    keywords:
+      - "HTML5"
+      - "CSS3"
+      - "Liquid"
+      - "JavaScript"
+      - "UI Development"
+  - name: "UI/UX Design"
+    level: "Intermediate"
+    keywords:
+      - "Sketch"
+      - "Photoshop"
+      - "Framer"
+      - "Webflow"
+      - "Adobe XD"
+  - name: "Full Stack"
+    level: "Beginner"
+    keywords:
+      - "GraphQL"
+      - "React"
+      - "Apollo"
+      - "Symfony"
+  - name: "Consulting"
+    level: "Intermediate"
+    keywords:
+      - "Online Retail"
+      - "Email Campaigns"
+      - "Architecture"
 #languages:
 #  - language: "English"
 #    fluency: "Native speaker"
@@ -134,4 +151,4 @@ education:
 references:
   - name: "Lan Li - VaporDNA"
     reference: >
-      "Great experience! Sean is the best. Always there to help with every question I have"
+      "Great experience! Sean is the best. Always there to help with every question I have."

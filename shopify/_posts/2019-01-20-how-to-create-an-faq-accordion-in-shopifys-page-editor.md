@@ -5,6 +5,7 @@ description: >
    In web development, an `accordion` is something that expands on a user's click.
 image: /assets/img/blog/accordion.gif
 excerpt_separator: <!--more-->
+comments: true
 ---
 
 <!-- Begin Accordion Snippet -->
@@ -74,12 +75,11 @@ excerpt_separator: <!--more-->
     </div>
   </div>
 </div>
+<!--more-->
 
 <br/>
 
 **Note:** The following code snippet is **pure html/css** and does not require javascript or jquery. It should inherit your theme's style.
-
-<!--more-->
 
 ## Step 1: Copy/Paste [this code](#source-code) into Shopify
 ![Full-width image](/assets/img/blog/step1.jpg)

@@ -24,7 +24,7 @@ title:                 Sean Orfila
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hi! 👋 I run a tiny web design shop from an island near Seattle!
+  Hi! 👋 I run a tiny web design & development shop from an island near Seattle!
 
 # A shorter description for the sidebar.
 tagline:               >
@@ -55,8 +55,8 @@ menu:
     url:               /work/
   - title:             resume
     url:               /resume/
-  - title:             documentation
-    url:               /docs/
+#  - title:             documentation
+#    url:               /docs/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -67,7 +67,7 @@ menu:
 #     url:               /cookies-policy/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2018. All rights reserved.
+copyright:             © 2019 Sean Orfila
 
 # Format of the permalinks
 permalink:             /blog/:categories/:title/
@@ -138,10 +138,10 @@ defaults:
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
-# disqus:                <disqus_shortname>
+disqus:                codeandShred
 
 # Setting a tinyletter username will enable the newsletter subscription box.
-# tinyletter:            <tinyletter_username>
+#tinyletter:            sean-orfila
 
 # Hydejack Settings
 # ----------------------------------------------------------------------------------------
@@ -307,7 +307,6 @@ social:
   links:
      - https://twitter.com/seanorfila
      - https://github.com/seandoggg
-
 
 # Other Plugins
 # ---------------------------------------------------------------------------------------
