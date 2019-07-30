@@ -148,7 +148,7 @@ $theme-color: {{ site.theme_color | default:'#193747' }};
 }
 
 .logo-grid-img {
-  max-width: 225px;
+  max-width: 225px !important;
   margin: 0 auto;
   padding: 0;
 }
