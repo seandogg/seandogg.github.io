@@ -18,9 +18,9 @@ Fast forward six years and I'm now running my own tiny [web design and developme
 
 With over six years of coding and UX design experience, I understand the complexities of turning ideas into designs and designs into websites and apps.  
 
-Working mainly with Shopify and Shopify Plus merchants, my work occasionally touches other aspects of modern **frontend web development** and **UI/UX design**.
+Working mainly with Shopify and Shopify Plus merchants, my day-to-day  touches many aspects of modern **frontend web development** and **UI/UX design**.
 
-My work is rooted in **HTML5**, **CSS3**, and **JavaScript**, and my UX designs reflect an understanding of code, the browser and each site's users.   
+My work is rooted in **HTML5**, **CSS3**, and **JavaScript**, and my UX designs reflect an understanding of code, the browser, and each site's users.   
 
 ---
 
