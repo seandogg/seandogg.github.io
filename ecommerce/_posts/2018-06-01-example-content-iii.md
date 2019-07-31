@@ -5,6 +5,8 @@ description: >
   A page showing Hydejack-specific markdown content.
 image: /assets/img/blog/example-content-iii.jpg
 published: false
+sitemap: false
+noindex: true
 ---
 
 Hydejack offers a few additional features to markup your markdown.

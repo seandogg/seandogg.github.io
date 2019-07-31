@@ -1,3 +1,7 @@
+---
+sitemap: false
+noindex: true
+---
 # CHANGELOG
 
 ## v8.4.0

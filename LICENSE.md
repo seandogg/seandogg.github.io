@@ -1,3 +1,7 @@
+---
+sitemap: false
+noindex: true
+---
 # LICENSE
 
 ## GNU GENERAL PUBLIC LICENSE

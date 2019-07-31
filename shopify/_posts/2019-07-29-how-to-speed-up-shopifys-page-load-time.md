@@ -2,25 +2,30 @@
 layout: post
 title: Improving Your Shopify Store's Page Load Time
 description: >
-   Your Shopify store is running slow. The most likely cause? **Third-party Apps**.
+   Your Shopify store is running slow. The most likely culprit? **Third-party Apps**
 image: /assets/img/blog/slow.jpg
 excerpt_separator: <!--more-->
 comments: true
 redirect_from: /how-to-speed-up-shopifys-page-load-time
 ---
 
-I see it all too often. A Shopify merchant will run their domain through one of the many page speed tests and, seeing the results, immediately assume their entire business is on fire.
+We see it all too often... a Shopify merchant decides to run their domain through an online page speed test and, seeing the results, immediately assumes their entire business is burning to the ground.
 <!--more-->
- 
-Suddenly, employees are being diverted from important daily tasks to solve the dilema of slow page loads. Third-party apps peddling so-called "speed boosts" are hastily installed, and then tragicly un-installed (but not before they've re-written most of your `assets` folder). 
 
-## Don't freak out
+>
+WE MUST DO SOMETHING!!!
+ 
+Employees are suddenly diverted from important daily tasks and redirected into solving the seemingly slow page load. 
+
+Workers with little understanding of code begin scouring the Shopify App Store, reaching for anything that appeases the fierce commands from above. Third-party Apps peddling so-called "speed boosts" are hastily installed, and then minutes later are tragicly un-installed after they've only shaved off a millisecond (but not before they've re-written most of the `assets` folder, creating a jumbled mess down the line). 
+
+## Step 1: Don't Trip
 
 Before you call all-hands-on-deck, or have your own personal meltdown, there's a bit more to understand about Shopify, page speeds, and what it all means.
 
-[GTMatrix](https://gtmetrix.com/), [Google PageSpeedTest](https://developers.google.com/speed/pagespeed/insights/) or [Pingdom](https://tools.pingdom.com/) each offer some popular tests.
+[GTMatrix](https://gtmetrix.com/), [Google PageSpeedTest](https://developers.google.com/speed/pagespeed/insights/) or [Pingdom](https://tools.pingdom.com/) each offer some popular tests. Try one out!
 
-Psychologically, for merchants, running a site through these tests appeals to that **inner gamer/social media addict**. Suddenly, all we care about is lowering that number. After all, business depends on it, right?
+Psychologically, for merchants, running a site through these tests appeals to that **inner gamer/social media addict** in all of us. Suddenly, all we care about is lowering that page speed number. After all, business depends on it... right?
 
 ## Let's compare some notable online stores
 
@@ -31,11 +36,9 @@ The fastest scaling business in internet history isn't passing that speed test e
 Take a deep breath. This might shock you... **[Apple.com](https://apple.com) regularly scores an F** (today it's a **C-**), **[Shopify's homepage](https://shopify.com) is scoring a D**, and the largest brands on Shopify ([**Kylie Cosmetics**](https://www.kyliecosmetics.com/) and [**FashionNova**](https://fashionnova.com)) are both **scoring an E** (worse than an F).
 
 ## Takeaway
-These are some of the highest-volume, most-visited websites in online retail and they're bombing the page speed test. Yet they're seeing millions of orders a year.
+These are some of the highest selling, most trafficked websites in online retail and they're basically bombing the page speed tests. Yet they're seeing millions of orders a year.
 
-Am I saying it doesn't matter? **No!** `Time to first paint` is a noble pursuit, and worthy of your time.
-
-**Bottom line: don't beat yourself up over a low score.** We can all do better! And with data centers expected to consume 33% of global electricity by 2025, optimizing your store means you're doing your part in striving for lean code that **reduces your carbon footprint**. 
+Am I saying it doesn't matter? **No!** `Time to first paint` is a noble and meaningful pursuit, one worthy of your time! But you should be diligent about next steps, and not work in a frenzied state of mind.
 ‍
 # So... what's actually slowing down your Shopify store?
 ## 1. Apps

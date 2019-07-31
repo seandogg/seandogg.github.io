@@ -52,8 +52,8 @@ const GOOGLE_FONTS = "https://fonts.googleapis.com/css?family={{ google_fonts | 
 
 const SHELL_FILES = [
   "{{ '/assets/bower_components/fontfaceobserver/fontfaceobserver.standalone.js' | relative_url }}",
-  "{{ '/assets/js/hydejack-8.4.0.js' | relative_url }}",
-  "{{ '/assets/css/hydejack-8.4.0.css' | relative_url }}",
+  "{{ '/assets/js/sean.js' | relative_url }}",
+  "{{ '/assets/css/sean-core.css' | relative_url }}",
   "{{ '/assets/img/swipe.svg' | relative_url }}",
   ICON_FONT,
   /*{% if gf %}*/ GOOGLE_FONTS /*{% endif %}*/,

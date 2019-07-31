@@ -15,6 +15,8 @@ accent_image:
 #  background: 'linear-gradient(to bottom,#193747 0%,#233e4c 30%,#3c929e 50%,#d5d5d4 70%,#cdccc8 100%)'
   background: url('/assets/img/blog/mindy.jpg')
   overlay:    true
+sitemap: false
+noindex: true
 ---
 
 A company that truly kicked-off boho-chic fashion blogging before it was popular, [**Cleobella**](https://shop.cleobella.com) first reached out for technical consulting on migrating their increasingly popular WordPress blog over to Shopify in 2014. 
