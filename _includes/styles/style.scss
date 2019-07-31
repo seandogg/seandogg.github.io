@@ -141,7 +141,7 @@ $theme-color: {{ site.theme_color | default:'#193747' }};
 .logo-grid {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: space-evenly;
   flex-wrap: wrap;
   background-color: white;
   padding: 15px;
@@ -153,8 +153,20 @@ $theme-color: {{ site.theme_color | default:'#193747' }};
   padding: 0;
 }
 
+.lead-sm {
+  width: 250px;
+
+  img {
+    border-radius: 12px;
+  }
+}
+
 .no-u {
   color: transparent;
   border: none;
   text-decoration: none;
+}
+
+.pagination {
+  display: none;
 }

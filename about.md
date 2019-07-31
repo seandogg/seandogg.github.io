@@ -5,6 +5,9 @@ title:  Who is Sean Orfila?
 accent_image: 
 #  background: 'linear-gradient(to bottom,#193747 0%,#233e4c 30%,#3c929e 50%,#d5d5d4 70%,#cdccc8 100%)'
   background: url('/assets/img/sidebar-bg8.jpg') center top
+description: >
+  'With over six years of coding and UX design experience, I understand the complexities of turning ideas into designs and designs into websites and apps.'
+hide_description: true
 ---
 
 ![Sean Orfila](/assets/img/sean-orfila-splitbus.jpg){: data-width="800" data-height="100"}
@@ -27,5 +30,8 @@ My work is rooted in **HTML5**, **CSS3**, and **JavaScript**, and my UX designs 
 Contracting with agencies and brands from around the globe, I'm humbled to be considered a **consultant**, **mentor**, **ux engineer**, **teacher**, and **web designer** to amazing artists, popular brands, and budding startups.
  
 ‍Seven years into my career, I approach each project with the utmost dedication to my clients and my work.
+
+<br />
+![Sean Orfila](/assets/img/sean-orfila2.jpg){:.lead-sm data-width="255" data-height="100"}
 
 ### Check out my [latest work](/work)

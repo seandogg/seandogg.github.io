@@ -1,14 +1,17 @@
 ---
-# file: about.md
+# file: work.md
 layout: about
 title:  Work
 description: >
-   For more detailed showcases, or a personal walkthrough of recent work, feel free to [contact me](mailto:hello@sean-orfila.com) directly.
+  'Contracting with agencies and brands from around the globe, I’m humbled to be considered a consultant, mentor, ux engineer, teacher, and web designer to amazing artists, popular brands, and budding startups.'
+hide_description: true
 accent_image: 
 #  background: 'linear-gradient(to bottom,#193747 0%,#233e4c 30%,#3c929e 50%,#d5d5d4 70%,#cdccc8 100%)'
   background: url('/assets/img/bg1.jpg') center top
   
 ---
+
+For more detailed showcases, or a personal walk-through of recent work, feel free to [contact me](mailto:hello@sean-orfila.com) directly.
 
 # Recent Clients
 
