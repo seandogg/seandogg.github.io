@@ -9,7 +9,7 @@ comments: true
 redirect_from: /how-to-speed-up-shopifys-page-load-time
 ---
 
-We see it all too often... a Shopify merchant decides to run their domain through an online page speed test and, seeing the results, immediately assumes their entire business is burning to the ground.
+We see it all too often... a merchant decides to run their domain through an online page speed test and, seeing the results, immediately assumes their entire business is burning to the ground.
 <!--more-->
 
 >
