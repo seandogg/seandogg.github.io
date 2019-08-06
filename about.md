@@ -27,7 +27,7 @@ Contracting with agencies and brands from around the globe, I'm humbled to be co
 
 ---
 
-Articles are mosyly about code, web performance, design, and online retail trends. But you'll likely encounter articles about other things I'm into [(cars)](/blog/vanlife/1993-ford-spectron-mazda-bongo/). After all, this is the [#indieweb](https://indieweb.org/)! 
+Articles here are mostly about code, web performance, design, and online retail trends. But you'll likely encounter articles about other things I'm into [(cars)](/blog/vanlife/1993-ford-spectron-mazda-bongo/). After all... this is the [#indieweb](https://indieweb.org/)! 
 
 <br />
 ![Sean Orfila](/assets/img/sean-orfila2.jpg){:.lead-sm data-width="255" data-height="100"}
