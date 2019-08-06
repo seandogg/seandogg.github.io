@@ -12,15 +12,14 @@ In 1993 the Mazda Bongo was **hot** in Japan, and Ford Motors, with their majori
 
 <!--more-->
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j_OjsJsRQfU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## Ford and Mazda? Wait... What?
 The history of Mazda and Ford is [a fascinating read](https://en.wikipedia.org/wiki/Mazda#Partnership_with_Ford_Motor_Company) and the two companies have important milestones in both the 1997 asian financial market crash and the 2008 global financial meltdown.
 
 Nonetheless, the business partnership between Ford and Mazda was outstanding, and Ford admitted it was forced into offloading it's majority stake of Mazda due to massive financial woes at the peak of the 2008-2009 market crash. 
 
 The 90s, however, happened to be a golden age in the Ford/Mazda partnership, and out of that love, this particular Spectron was born.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j_OjsJsRQfU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Why would you buy that? 
 
