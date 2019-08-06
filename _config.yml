@@ -138,7 +138,7 @@ defaults:
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
-disqus:                codeandShred
+disqus:                https-www-sean-orfila-com
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 #tinyletter:            sean-orfila
