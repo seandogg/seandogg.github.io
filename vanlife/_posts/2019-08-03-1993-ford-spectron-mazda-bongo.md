@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We bought an obscure 90s van | The Ford Spectron
+title: We bought an obscure 90s van -- The Ford Spectron.
 description: >
    The Internet. Yo Mtv Raps. The X-files. AOL. Bill Clinton... the 90s gifted us with amazing stuff -- including this obscure 4WD right-hand drive diesel Ford Spectron.
 image: /assets/img/blog/ford-spectron-1993.jpg
