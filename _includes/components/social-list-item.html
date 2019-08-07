@@ -32,7 +32,7 @@
   {% endif %}
 
   <li>
-    <a href="{{ url }}" title="{{ name }}" class="no-mark-external">
+    <a href="{{ url }}" title="{{ name }}" class="no-mark-external" {% if platform == "email" or platform == "twitter" or platform == "twitter" or platform == "github" %}rel="me"{% endif %}>
       <span class="{{ icon }}"></span>
       <span class="sr-only">{{ name }}</span>
     </a>
