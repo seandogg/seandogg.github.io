@@ -27,6 +27,7 @@ layout: base
   {% case addon %}
   {% when 'about' %}
      {% include components/about.html %}
+      {% webmentions %}
   {% when 'newsletter' %}
     {% include pro/newsletter.html %}
   <!-- {% when 'related' %}
