@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Creating An Accordion for Shopify Pages 
+title: A Pure CSS Accordion for Shopify Pages 
 description: >
    In web development, an `accordion` is something that expands on a user's click.
 image: /assets/img/blog/accordion.gif

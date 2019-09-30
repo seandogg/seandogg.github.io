@@ -1,18 +1,20 @@
 ---
 layout: post
-title: Using Javascript and MutationObserver for Boosting Buyer Incentives on Shopify with Free Shipping
+title: Using MutationObserver to mimic AJAX in Shopify Themes
 description: >
-   Using MutationObserver via JavaScript is helpful for watching Shopify's cart object in real time without a page refresh. Here's how I created a countdown to free shipping using the Web API.
-image: /assets/img/blog/eye.jpg
+   Using the Web API MutationObserver with JavaScript is super helpful for watching Shopify's cart object in real time without needing a page refresh.
+image: /assets/img/blog/eye1.jpg
 excerpt_separator: <!--more-->
 comments: true
 ---
 
-[MutationObserver](https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver) is a super handy tool in the front-ender's toolbox -- especially when it comes to Shopify themes. This is how I used it with the [Streamline theme](https://archetypethemes.co/products/streamline) from Archetype -- but it can certainly be applied to a bunch of other themes too.
+[MutationObserver](https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver) is a super handy tool in the front-ender's toolbox -- especially when it comes to Shopify themes. This is how I used it with the [Streamline theme](https://archetypethemes.co/products/streamline) from Archetype -- but it can certainly be applied to a bunch of other themes too. 
+
+Here's how I created a countdown to free shipping using the Web API.
  
 <!--more-->
 
-![Today's Task](/assets/img/blog/shopify-free-shipping-countdown.png){:.lead data-width="800" data-height="100"}
+![Today's Goal](/assets/img/blog/shopify-free-shipping-countdown.png){:.lead data-width="800" data-height="100"}
 The end goal for this task is creating a countdown for free shipping. 
 {:.figure}
 
