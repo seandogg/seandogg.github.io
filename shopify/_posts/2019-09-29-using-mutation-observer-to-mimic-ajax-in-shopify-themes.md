@@ -18,6 +18,8 @@ Here's how I created a countdown to free shipping using the Web API.
 The end goal for this task is creating a countdown for free shipping. 
 {:.figure}
 
+Shoutout to [Voltage](https://www.voltagenewmedia.com/) for partnering with me on this solution.
+
 ---
 
 **Here's the business logic:** our customer spends $55, and her shipping is free. Our merchant needs a nice little message near the cart total showing the customer how much more they should spend to get free shipping. 
