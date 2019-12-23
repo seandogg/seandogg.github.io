@@ -1,6 +1,6 @@
 ---
 layout: resume
-title: Résumé*
+title: Resume
 description: >
   I'm a Frontend Web Developer and consultant specializing in online retail, Shopify, and user experience design. I'm currently open to remote positions or partial remote roles in the greater Seattle area.
 accent_image: 
