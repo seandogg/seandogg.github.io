@@ -8,7 +8,7 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Hi! 👋 I'm Sean Orfila. I'm an experienced web developer and UX designer mostly working with Shopify and Shopify Plus. I run my own tiny [design & development shop](https://grizzlypoppy.com) from an island near Seattle. I blog about Shopify and obscure cars.
+    Hi! 👋 I'm Sean Orfila. I'm an experienced web developer and UX designer mostly working with Shopify and Shopify Plus. I run my own tiny [design & development shop](https://grizzlypoppy.com) from a rural island near Seattle. I blog about Shopify, JavaScript, obscure cars, and whatever else I feel is worth writing.
 
   # This photo will be used in the about section
   picture:

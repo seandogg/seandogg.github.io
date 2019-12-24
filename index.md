@@ -17,8 +17,10 @@ I work on Shopify solutions for a bunch of awesome clients including: **[Beyonce
 
 The bulk of my day-to-day is spent **writing frontend code** for busy digital agencies (HTML, SCSS & JavaScript), but I also work directly with merchants, including retailers referred from [**Shopify Plus**](https://www.shopify.com/plus?ref=orfila-design).
 
+{% comment %}
 ### Recent work
 <!--projects-->
+{% endcomment %}
 
 ## The Backstory
 I (kinda) built my first website in 2004. 

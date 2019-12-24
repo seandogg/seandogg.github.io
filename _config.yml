@@ -49,8 +49,8 @@ author:
 menu:
   - title:             blog
     url:               /blog/
-  - title:             about
-    url:               /about/
+#  - title:             about
+#    url:               /about/
   - title:             work
     url:               /work/
   - title:             resume
