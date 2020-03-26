@@ -1,54 +1,55 @@
 ---
 # file: index.md
 layout: welcome
-title:  Hey 👋🏽 I'm Sean
+title:  Hey 👋🏽 I'm Sean Orfila
 cover:  false
 # https://cssgradient.io/
 accent_color: '#4fb1ba'
-accent_image: 
-  background: 'linear-gradient(180deg, rgba(66,63,251,1) 0%, rgba(252,109,70,1) 100%)'
+accent_image:
+  background: url('/assets/img/starry.jpg')
   overlay:    true
 ---
 
 ![Sean's image](/assets/img/sean-orfila5.jpg){:.w50}
 
 ## I design and code online retail experiences.
-I work on Shopify solutions for a bunch of awesome clients including: **[Beyonce](https://shop.beyonce.com/)**, **[Modern Times Beer](http://www.moderntimesbeer.com/)**, **[The Black Eyed Peas](https://store.blackeyedpeas.com/)**, **[Cleobella](https://shop.cleobella.com/)**, **[CrossFit](https://www.crossfit.com/)**, **[Deseda](https://www.shopdeseda.com/)**, **[Sebastian Manascalco](https://shop.sebastianlive.com/)**, and more!
+I work on Shopify solutions for a bunch of awesome clients including: **[The Elder Statesman](https://elder-statesman.com/)**, **[Beyonce](https://shop.beyonce.com/)**, **[Modern Times Beer](http://www.moderntimesbeer.com/)**, **[The Black Eyed Peas](https://store.blackeyedpeas.com/)**, **[Cleobella](https://shop.cleobella.com/)**, **[CrossFit](https://www.crossfit.com/)**, **[Deseda](https://www.shopdeseda.com/)**, **[Sebastian Manascalco](https://shop.sebastianlive.com/)**, and more!
 
-The bulk of my day-to-day is spent **writing frontend code** for busy digital agencies (HTML, SCSS & JavaScript), but I also work directly with merchants, including retailers referred from [**Shopify Plus**](https://www.shopify.com/plus?ref=orfila-design).
+I'm usually **writing frontend code** for agencies that on-shore their web development work to me, but I also work directly with merchants solving a variety of fun problems on Shopify.
 
 {% comment %}
 ### Recent work
 <!--projects-->
 {% endcomment %}
 
-## The Backstory
-I (kinda) built my first website in 2004. 
+## My Web Developer Story
+I built my first website in 2004. After that, I coded web sites as a hobby until 2011, when I founded a health-food product startup. I basically did everything! But the relevant things are I focused mostly on building an ecommerce store, product design, branding, and marketing.
 
-In 2013 I was hired for my first "official" junior web developer job at a small agency near the beach in my native California. 
+In 2013, I sold my share of that company, and "officially" began my career as a web developer at a digital agency in California.
 
-I developed a good understanding of **WordPress** and **Shopify** during this time, and furthered my understanding of semantic **HTML** and **CSS** in a more formal, professional setting. This is when I also gained a good grasp of SEO. 
+Working for that agency, I developed a better understanding of **WordPress** and **Shopify**, and practiced writing semantic **HTML** and **CSS** in a more professional environment.
 
-After working at a few other agencies in California, I took a break from the agency world, and in 2016 began working for a corporation as **one of the only frontend web developers on a team of 60 engineers**. 
+After working at a couple agencies in California as a web developer, I took a break from the agency world, and in 2016 accepted a position at medium/large-size biotech company in a software engineering role (web focused).
 
-Working on that team forced me to learn deeper aspects programming such as **command line tools**, **git**, **regex**, **working with data**, developing **design systems**, and translating business logic into wireframes! 
+---
 
-After that company went through a merger, I returned to agency life, and we up-and-moved the whole fam to the Bay Area, where I took a position working for the **largest Shopify Plus agency in San Francisco**. 
+Working on the biotech engineering team forced me to learn some deeper aspects programming such as **command line tools**, **git**, **regex**, **working with data & databases**, developing **design systems**, and translating complex business logic into designs.
 
-In 2018, I decided to follow my dream and branch out on my own -- starting my own [tiny agency](https://grizzlypoppy.com). It's just me and my wife! This allowed us the flexability to move to a rustic, rural island in the Pacific Northwest, where we're happily raising our children. 
+After that company went through a merge, I returned to agency life, and in 2017 was relocating to San Francisco where I took a position working for a leading Shopify Plus agency.
 
-## The extras
-I grew up surfing and snowboarding. I love growing groceries and soil science. I worked a couple years as a journeyman carpenter, and love building stuff with wood. 
- 
- I work on, and collect, vintage cars. I'm a total weather geek, particularly when it comes to forecasting surf & snow. 
- 
- The majority of my time, however, is dedicated to my children and developing highly valuable solutions for my clients' business 😉.
+---
+
+In late 2018, I decided following my dream of entrepreneurship would need to happen.
+
+I left the agency position and with a mini cohort of clients, started my own [tiny agency](https://grizzlypoppy.com). Having my own business allowed me and my little family the flexability to move to our rural island in the Pacific Northwest, where we're happily raising our children near the local Waldorf school.
 
 ![Sean's image](/assets/img/office.jpg){:.w50}
 My little office (upstairs the restaurant)
 {:.figure .tl}
 
-I have a little office space in the charming village of Langley, WA. From my window, I can see Glacier Peak, Mt. Baker, the Cascades, and the occasional orca passing on Puget Sound. 
+I have a charming office space in the sea-side hamlet of Langley, WA - just a ferry and traffic jam away from busy Seattle. From my window, I can see Glacier Peak, Mt. Baker, the Cascades, and the occasional whale.
+
+Note: I've recently moved my office into our home due to coronavirus, but hope to be working in my office again someday soon.
 
 ---
 
