@@ -23,13 +23,13 @@ I'm usually **writing frontend code** for agencies that on-shore their web devel
 {% endcomment %}
 
 ## My Web Developer Story
-I built my first website in 2004. After that, I coded web sites as a hobby until 2011, when I founded a health-food product startup. I basically did everything! But the relevant things are I focused mostly on building an ecommerce store, product design, branding, and marketing.
+I built my first website in 2004. After that, I coded web sites as a hobby until 2011, when I founded a health-food product company. I built out the online store, implemented product design, branding, handled all marketing, and did the books.
 
 In 2013, I sold my share of that company, and "officially" began my career as a web developer at a digital agency in California.
 
 Working for that agency, I developed a better understanding of **WordPress** and **Shopify**, and practiced writing semantic **HTML** and **CSS** in a more professional environment.
 
-After working at a couple agencies in California as a web developer, I took a break from the agency world, and in 2016 accepted a position at medium/large-size biotech company in a software engineering role (web focused).
+After working at a couple agencies in California as a web developer, I took a break from the agency world, and in 2016 accepted a position at medium/large-size biotech company in a software engineering role.
 
 ---
 
@@ -41,7 +41,7 @@ After that company went through a merge, I returned to agency life, and in 2017 
 
 In late 2018, I decided following my dream of entrepreneurship would need to happen.
 
-I left the agency position and with a mini cohort of clients, started my own [tiny agency](https://grizzlypoppy.com). Having my own business allowed me and my little family the flexability to move to our rural island in the Pacific Northwest, where we're happily raising our children near the local Waldorf school.
+I left the agency position and with a mini cohort of clients, started my own [tiny agency](https://grizzlypoppy.com). Having my own business allowed me and my little family the freedom to move to a rural island in the Pacific Northwest, where we're happily raising our children near the local Waldorf school set amongst the forest and beaches of Puget Sound.
 
 ![Sean's image](/assets/img/office.jpg){:.w50}
 My little office (upstairs the restaurant)
