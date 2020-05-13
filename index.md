@@ -45,17 +45,15 @@ After that company went through a merger and big round of layoffs (not my fault)
 
 ---
 
-In late 2018, I decided following my dream of entrepreneurship would need to happen.
-
-I left the agency position and started my own [tiny agency](https://grizzlypoppy.com). Being my own business allowed me and my little family the freedom to move to a semi-rural island in the Pacific Northwest, where we're happily raising our kids near the local Waldorf school, set amongst the forests, farms, and beaches of Puget Sound.
+I left the agency position (and the Bay Area) in 2018, founding my own [tiny agency](https://grizzlypoppy.com). Being my own business allowed our little family the freedom to move to a rural island in the Pacific Northwest, where we're happily raising our kids and homesteading.
 
 ![Sean's image](/assets/img/office.jpg){:.w50}
 My little office (upstairs the restaurant)
 {:.figure .tl}
 
-I have a charming office space in the sea-side hamlet of Langley, WA - just a ferry and traffic jam away from busy Seattle. From my window, I can see Glacier Peak, Mt. Baker, the Cascades, and the occasional whale.
+I have an office in the small coastal hamlet of Langley, WA - just a ferry ride and traffic jam away from Seattle. From my window, I can see Glacier Peak, Mt. Baker, the Cascades, and the occasional whale!
 
-**Note**: I've recently moved my office into our home due to coronavirus! Hope to be working in my office again someday soon.
+**Note**: I've recently moved my office into our home due to coronavirus... hope to be working in my office again someday soon. I zoom from my kitchen. Please ignore the stack of unwashed dishes.
 
 ---
 
