@@ -6,7 +6,7 @@ cover:  false
 # https://cssgradient.io/
 accent_color: '#4fb1ba'
 accent_image:
-  background: url('/assets/img/starry.jpg')
+  background: url('/assets/img/sidebar-bg7.jpg')
   overlay:    true
 ---
 
@@ -22,26 +22,32 @@ I'm usually **writing frontend code** for agencies that on-shore their web devel
 <!--projects-->
 {% endcomment %}
 
-## My Web Developer Story
-I built my first website in 2004. After that, I coded web sites as a hobby until 2011, when I founded a health-food product company. I built out the online store, implemented product design, branding, handled all marketing, and did the books.
+## My story
+The son of a [C programmer](https://en.wikipedia.org/wiki/C_programming_language), I had access to computers from a very young age (this was during the 80s & 90s - [dial up modems](https://en.wikipedia.org/wiki/Modem), [MS-Dos](https://en.wikipedia.org/wiki/MS-DOS), AOL, and all that).
 
-In 2013, I sold my share of that company, and "officially" began my career as a web developer at a digital agency in California.
+I built my first website back in 2004 for a non-profit. After that, I had a little hustle customizing people's myspace profiles! Although a bit embarrasing, this gig actually taught me so much about html and css!
 
-Working for that agency, I developed a better understanding of **WordPress** and **Shopify**, and practiced writing semantic **HTML** and **CSS** in a more professional environment.
-
-After working at a couple agencies in California as a web developer, I took a break from the agency world, and in 2016 accepted a position at medium/large-size biotech company in a software engineering role.
+Later, I designed a health food product and sold it online -- first with WordPress, and later with Shopify in 2012. This was when I really fell in love with [Shopify](https://shopify.com) as a "platform".
 
 ---
 
-Working on the biotech engineering team forced me to learn some deeper aspects programming such as **command line tools**, **git**, **regex**, **working with data & databases**, developing **design systems**, and translating complex business logic into designs.
+In 2013, I sold my share of that company, and "officially" started a career as a web developer at a digital agency in California.
 
-After that company went through a merge, I returned to agency life, and in 2017 was relocating to San Francisco where I took a position working for a leading Shopify Plus agency.
+Working for that agency, I developed a better understanding of **WordPress** and **Shopify**, and practiced writing semantic **HTML** and **CSS** in a more professional environment.
+
+After working at a couple agencies in California as a web developer for a few years, I took a break from the agency world, and in 2016 accepted a position at medium/large-size biotech company in a formal software engineering role.
+
+---
+
+Working on a team of 60 engineers helped me to learn some deeper aspects programming such as **command line**, **git**, **regex**, **working with data & large databases**, developing traditional **design systems**, and translating complex business logic into wireframes.
+
+After that company went through a merger and big round of layoffs (not my fault), I returned to agency life, and in 2017 was relocating to San Francisco where I took a position working for a leading Shopify Plus agency.
 
 ---
 
 In late 2018, I decided following my dream of entrepreneurship would need to happen.
 
-I left the agency position and with a mini cohort of clients, started my own [tiny agency](https://grizzlypoppy.com). Having my own business allowed me and my little family the freedom to move to a rural island in the Pacific Northwest, where we're happily raising our children near the local Waldorf school set amongst the forest and beaches of Puget Sound.
+I left the agency position and started my own [tiny agency](https://grizzlypoppy.com). Being my own business allowed me and my little family the freedom to move to a semi-rural island in the Pacific Northwest, where we're happily raising our kids near the local Waldorf school, set amongst the forests, farms, and beaches of Puget Sound.
 
 ![Sean's image](/assets/img/office.jpg){:.w50}
 My little office (upstairs the restaurant)
@@ -49,7 +55,7 @@ My little office (upstairs the restaurant)
 
 I have a charming office space in the sea-side hamlet of Langley, WA - just a ferry and traffic jam away from busy Seattle. From my window, I can see Glacier Peak, Mt. Baker, the Cascades, and the occasional whale.
 
-Note: I've recently moved my office into our home due to coronavirus, but hope to be working in my office again someday soon.
+**Note**: I've recently moved my office into our home due to coronavirus! Hope to be working in my office again someday soon.
 
 ---
 
