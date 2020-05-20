@@ -12,8 +12,8 @@ accent_image:
 
 ![Sean's image](/assets/img/sean-orfila5.jpg){:.w50}
 
-## I design and code online retail experiences.
-I work on Shopify solutions for a bunch of awesome clients including: **[The Elder Statesman](https://elder-statesman.com/)**, **[Beyonce](https://shop.beyonce.com/)**, **[Modern Times Beer](http://www.moderntimesbeer.com/)**, **[The Black Eyed Peas](https://store.blackeyedpeas.com/)**, **[Cleobella](https://shop.cleobella.com/)**, **[CrossFit](https://www.crossfit.com/)**, **[Deseda](https://www.shopdeseda.com/)**, **[Sebastian Manascalco](https://shop.sebastianlive.com/)**, and more!
+## I run a web shop called [Grizzly & Poppy](https://grizzlypoppy.com)
+I'm working on Shopify solutions for a bunch of awesome clients including: **[The Elder Statesman](https://elder-statesman.com/)**, **[Beyonce](https://shop.beyonce.com/)**, **[Modern Times Beer](http://www.moderntimesbeer.com/)**, **[The Black Eyed Peas](https://store.blackeyedpeas.com/)**, **[Cleobella](https://shop.cleobella.com/)**, **[CrossFit](https://www.crossfit.com/)**, **[Deseda](https://www.shopdeseda.com/)**, **[Sebastian Manascalco](https://shop.sebastianlive.com/)**, and more!
 
 I'm usually **writing frontend code** for agencies that on-shore their web development work to me, but I also work directly with merchants solving a variety of fun problems on Shopify.
 
