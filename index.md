@@ -6,7 +6,7 @@ cover:  false
 # https://cssgradient.io/
 accent_color: '#4fb1ba'
 accent_image:
-  background: url('/assets/img/sidebar-bg7.jpg')
+  background: url('/assets/img/sidebar-bg7.jpg') center / cover
   overlay:    true
 ---
 
@@ -27,33 +27,25 @@ The son of a [C programmer](https://en.wikipedia.org/wiki/C_programming_language
 
 I built my first website back in 2004 for a non-profit. After that, I had a little hustle customizing people's myspace profiles! Although a bit embarrasing, this gig actually taught me so much about html and css!
 
-Later, I designed a health food product and sold it online -- first with WordPress, and later with Shopify in 2012. This was when I really fell in love with [Shopify](https://shopify.com) as a "platform".
+Later, in 2012, I created a food product which was sold at Whole Foods and smaller health-food grocery stores. I built an ecommerce store for it -- first with WordPress, and later with Shopify. This was when I really fell in love with [Shopify](https://shopify.com) -- as a merchant.
 
 ---
 
-In 2013, I sold my share of that company, and "officially" started a career as a web developer at a digital agency in California.
+In 2013, I sold my share of that company, and started a career as a "real-life" web developer at a digital agency in California.
 
-Working for that agency, I developed a better understanding of **WordPress** and **Shopify**, and practiced writing semantic **HTML** and **CSS** in a more professional environment.
+Working for that agency, I developed a better understanding of **WordPress** and **Shopify**, and practiced writing semantic **HTML**, **CSS** and **Javascript** in a more professional environment.
 
-After working at a couple agencies in California as a web developer for a few years, I took a break from the agency world, and in 2016 accepted a position at medium/large-size biotech company in a formal software engineering role.
+After working at a couple agencies in California as a web developer for a few years, I took a break from the agency world, and in 2016 accepted a position at a biotech company in a formal/corporate software engineering role.
 
 ---
 
 Working on a team of 60 engineers helped me to learn some deeper aspects programming such as **command line**, **git**, **regex**, **working with data & large databases**, developing traditional **design systems**, and translating complex business logic into wireframes.
 
-After that company went through a merger and big round of layoffs (not my fault), I returned to agency life, and in 2017 was relocating to San Francisco where I took a position working for a leading Shopify Plus agency.
+After that company went through a merger and big round of layoffs, I returned to the digital agency world, and in 2017 we were relocating to San Francisco where I took a position working for a leading Shopify Plus agency solving all kinds of interesting Shopify puzzles.
 
 ---
 
-I left the agency position (and the Bay Area) in 2018, founding my own [tiny agency](https://grizzlypoppy.com). Being my own business allowed our little family the freedom to move to a rural island in the Pacific Northwest, where we're happily raising our kids and homesteading.
-
-![Sean's image](/assets/img/office.jpg){:.w50}
-My little office (upstairs the restaurant)
-{:.figure .tl}
-
-I have an office in the small coastal hamlet of Langley, WA - just a ferry ride and traffic jam away from Seattle. From my window, I can see Glacier Peak, Mt. Baker, the Cascades, and the occasional whale!
-
-**Note**: I've recently moved my office into our home due to coronavirus... hope to be working in my office again someday soon. I zoom from my kitchen. Please ignore the stack of unwashed dishes.
+In 2018 my job was cut from the agency, and I decided founding my own [tiny agency](https://grizzlypoppy.com) would be best. Having our own business allowed our little family the freedom to move to a rural island in the Pacific Northwest, where we're happily raising our kids, and practicing regenerative farming for ourselves and our local community food bank.
 
 ---
 

@@ -4,7 +4,7 @@ layout: about
 title:  About Sean
 accent_image:
 #  background: 'linear-gradient(to bottom,#193747 0%,#233e4c 30%,#3c929e 50%,#d5d5d4 70%,#cdccc8 100%)'
-  background: url('/assets/img/sidebar-bg8.jpg') center top
+  background: url('/assets/img/sidebar-bg8.jpg') center / cover
 description: >
   'With over six years of coding and UX design experience, I understand the complexities of turning ideas into designs and designs into websites and apps.'
 hide_description: true

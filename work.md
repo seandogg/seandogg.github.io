@@ -5,10 +5,10 @@ title:  Work
 description: >
   'Contracting with agencies and brands from around the globe, I’m humbled to be considered a consultant, mentor, ux engineer, teacher, and web designer to amazing artists, popular brands, and budding startups.'
 hide_description: true
-accent_image: 
+accent_image:
 #  background: 'linear-gradient(to bottom,#193747 0%,#233e4c 30%,#3c929e 50%,#d5d5d4 70%,#cdccc8 100%)'
-  background: url('/assets/img/bg1.jpg') center top
-  
+  background: url('/assets/img/bg1.jpg') center / cover
+
 ---
 
 For more detailed showcases, or a personal walk-through of recent work, feel free to [contact me](mailto:hello@sean-orfila.com) directly.
@@ -32,7 +32,7 @@ For more detailed showcases, or a personal walk-through of recent work, feel fre
 </a>
 
 <a class="no-u" href="https://www.lifebejeweled.com" target="_blank">
-  <img class="logo-grid-img" src="/assets/img/work/lb-logo.jpg" alt="logo"> 
+  <img class="logo-grid-img" src="/assets/img/work/lb-logo.jpg" alt="logo">
 </a>
 
 <a class="no-u" href="https://www.vapordna.com" target="_blank">
